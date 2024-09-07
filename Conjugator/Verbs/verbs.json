@@ -1,0 +1,5459 @@
+{
+    "verbe0": {
+        "oc": "վար առնել",
+        "or": "վար առնել",
+        "fr": "abaisser",
+        "en": "to lower ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe1": {
+        "oc": "հրաժարիլ",
+        "or": "հրաժարվել",
+        "fr": "abandonner",
+        "en": "to give up",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe2": {
+        "oc": "կրճատել ",
+        "or": "կրճատել ",
+        "fr": "abréger",
+        "en": "to abbreviate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe3": {
+        "oc": "հաճիլ",
+        "or": "հաճել",
+        "fr": "prier quelqu'un",
+        "en": "to request someone",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe4": {
+        "oc": "կատարել",
+        "or": "կատարել",
+        "fr": "accomplir",
+        "en": "to accomplish",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe5": {
+        "oc": "ընդունիլ ",
+        "or": "ընդունել ",
+        "fr": "accueillir",
+        "en": "to welcome",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe6": {
+        "oc": "Գնել",
+        "or": "գնել",
+        "fr": "acheter",
+        "en": "to buy",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe7": {
+        "oc": "աւարտել",
+        "or": "ավարտել",
+        "fr": "achever",
+        "en": "to achieve",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe8": {
+        "oc": "հաստատել",
+        "or": "հաստատել",
+        "fr": "affirmer",
+        "en": "to affirm",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe9": {
+        "oc": "գրգռել",
+        "or": "գրգռել",
+        "fr": "agacer",
+        "en": "to annoy",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe10": {
+        "oc": "գործել ",
+        "or": "գործել ",
+        "fr": "agir",
+        "en": "to act",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe11": {
+        "oc": "հաւնիլ  ",
+        "or": "հավնել  ",
+        "fr": "agréer",
+        "en": "to agree ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe12": {
+        "oc": "օգնել",
+        "or": "օգնել",
+        "fr": "aider",
+        "en": "to help",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe13": {
+        "oc": "Սիրել",
+        "or": "սիրել",
+        "fr": "aimer",
+        "en": "to love",
+        "info_oc": "սիրահարուիլ : tomber amoureux/to fall in love",
+        "info_or": "սիրահարվել : tomber amoureux/to fall in love"
+    },
+    "verbe14": {
+        "oc": "հաւնիլ",
+        "or": "հավնել",
+        "fr": "aimer ",
+        "en": "to like",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe15": {
+        "oc": "Երթալ",
+        "or": "գնալ",
+        "fr": "aller",
+        "en": "to go",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe16": {
+        "oc": "լուսաւորել",
+        "or": "լուսավորել",
+        "fr": "allumer",
+        "en": "to light",
+        "info_oc": "լուսաւորել:allumer(éclairer)/to light up",
+        "info_or": "լուսաւորել:allumer(éclairer)/to light up"
+    },
+    "verbe17": {
+        "oc": "վառել ",
+        "or": "վառել ",
+        "fr": "allumer ",
+        "en": "to light ",
+        "info_oc": "վառել: brûler(quelque chose)/to burn(something)",
+        "info_or": "վառել: brûler(quelque chose)/to burn(something)"
+    },
+    "verbe18": {
+        "oc": "բարելաւել",
+        "or": "բարելավել",
+        "fr": "améliorer",
+        "en": "to improve",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe19": {
+        "oc": "խաղցնել",
+        "or": "խաղցնել",
+        "fr": "amuser",
+        "en": "to amuse",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe20": {
+        "oc": "Կանչել",
+        "or": "կանչել",
+        "fr": "appeler",
+        "en": "to call",
+        "info_oc": "հեռաձայնել: téléphoner/to call(phone)##",
+        "info_or": "հեռաձայնել: téléphoner/to call(phone)##"
+    },
+    "verbe21": {
+        "oc": "Բերել",
+        "or": "բերել",
+        "fr": "apporter",
+        "en": "to bring",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe22": {
+        "oc": "սորվիլ",
+        "or": "սովորել",
+        "fr": "apprendre",
+        "en": "to learn",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe23": {
+        "oc": "մօտեցնել",
+        "or": "մոտեցնել",
+        "fr": "approcher",
+        "en": "to approach ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe24": {
+        "oc": "հաւնիլ ",
+        "or": "համաձայնվել",
+        "fr": "approuver",
+        "en": "to agree",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe25": {
+        "oc": "կոխել",
+        "or": "արդուկել",
+        "fr": "appuyer",
+        "en": "to press ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe26": {
+        "oc": "կեցնել",
+        "or": "կանգ առնել ",
+        "fr": "arrêter",
+        "en": "to stop",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe27": {
+        "oc": "միացնել ",
+        "or": "միացնել ",
+        "fr": "associer",
+        "en": "to associate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe28": {
+        "oc": "կապել",
+        "or": "կապել",
+        "fr": "attacher",
+        "en": "to attach",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe29": {
+        "oc": "կապել ",
+        "or": "կապել ",
+        "fr": "attacher ",
+        "en": "to tie",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe30": {
+        "oc": "յարձակիլ",
+        "or": "հարձակել",
+        "fr": "attaquer",
+        "en": "to attack",
+        "info_oc": "յարձակիլ:attaquer (qqn)/to attack (somebody)",
+        "info_or": "յարձակիլ:attaquer (qqn)/to attack (somebody)"
+    },
+    "verbe31": {
+        "oc": "սպասել",
+        "or": "սպասել",
+        "fr": "attendre",
+        "en": "to wait",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe32": {
+        "oc": "իջնալ ",
+        "or": "իջնել ",
+        "fr": "attérrir",
+        "en": "to land",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe33": {
+        "oc": "Բռնել",
+        "or": "բռնել",
+        "fr": "attraper",
+        "en": "to catch",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe34": {
+        "oc": "արտօնել",
+        "or": "արտոնել",
+        "fr": "autoriser",
+        "en": "to allow ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe35": {
+        "oc": "իմացնել",
+        "or": "նախազգուշացնել ",
+        "fr": "avertir",
+        "en": "to warn ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe36": {
+        "oc": "Ունենալ",
+        "or": "ունենալ",
+        "fr": "avoir",
+        "en": "to have",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe37": {
+        "oc": "ունիմ",
+        "or": "ունեմ",
+        "fr": "avoir ",
+        "en": "to have ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe38": {
+        "oc": "Ցաւիլ",
+        "or": "ցավել",
+        "fr": "avoir mal",
+        "en": "to ache",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe39": {
+        "oc": "Վախնալ",
+        "or": "վախնալ",
+        "fr": "avoir peur",
+        "en": "to be affraid",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe40": {
+        "oc": "վար առնել ",
+        "or": "վար առնել ",
+        "fr": "baisser",
+        "en": "to lower",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe41": {
+        "oc": "աւլել",
+        "or": "ավլել",
+        "fr": "balayer",
+        "en": "to sweep",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe42": {
+        "oc": "յաղթել ",
+        "or": "հաղթել",
+        "fr": "battre",
+        "en": "to beat",
+        "info_oc": "battre (gagner) / to beat (to win)",
+        "info_or": "battre (gagner) / to beat (to win)"
+    },
+    "verbe43": {
+        "oc": "օրհնել",
+        "or": "օրհնել",
+        "fr": "bénir",
+        "en": "to bless",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe44": {
+        "oc": "կատակել",
+        "or": "կատակել",
+        "fr": "blaguer",
+        "en": "to joke",
+        "info_oc": "կատակ ընել : faire une blague/to make a joke ##",
+        "info_or": "կատակ անել : faire une blague/to make a joke ##"
+    },
+    "verbe45": {
+        "oc": "վիրաւորել",
+        "or": "վիրավորել",
+        "fr": "blesser",
+        "en": "to hurt",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe46": {
+        "oc": "Խմել",
+        "or": "խմել",
+        "fr": "boire",
+        "en": "to drink",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe47": {
+        "oc": "շարժիլ",
+        "or": "շարժել",
+        "fr": "bouger",
+        "en": "to move",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe48": {
+        "oc": "վառել",
+        "or": "վառել",
+        "fr": "brûler",
+        "en": "to burn",
+        "info_oc": "վառել: brûler(quelque chose)/to burn(something)",
+        "info_or": "վառել: brûler(quelque chose)/to burn(something)"
+    },
+    "verbe49": {
+        "oc": "այրել",
+        "or": "այրվել",
+        "fr": "brûler ",
+        "en": "to burn ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe50": {
+        "oc": "պահել",
+        "or": "պահել",
+        "fr": "cacher",
+        "en": "to hide",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe51": {
+        "oc": "թաքցնել",
+        "or": "թաքցնել",
+        "fr": "cacher ",
+        "en": "to hide ",
+        "info_oc": "cacher/déguiser/dissimuler/masquer hide/disguise/withhold/conceal/cloak",
+        "info_or": "cacher/déguiser/dissimuler/masquer hide/disguise/withhold/conceal/cloak"
+    },
+    "verbe52": {
+        "oc": "զիջիլ",
+        "or": "զիջել",
+        "fr": "céder",
+        "en": "to yield",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe53": {
+        "oc": "փոխել",
+        "or": "փոխել",
+        "fr": "changer",
+        "en": "to change",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe54": {
+        "oc": "Երգել",
+        "or": "երգել",
+        "fr": "chanter",
+        "en": "to sing",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe55": {
+        "oc": "հրապուրել ",
+        "or": "հրապուրել ",
+        "fr": "charmer",
+        "en": "to charm",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe56": {
+        "oc": "տաքցնել",
+        "or": "տաքացնել",
+        "fr": "chauffer",
+        "en": "to heat",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe57": {
+        "oc": "Փնտրել",
+        "or": "փնտրել",
+        "fr": "chercher",
+        "en": "to search",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe58": {
+        "oc": "գուրգուրալ",
+        "or": "փայփայել",
+        "fr": "chérir",
+        "en": "to cherish",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe59": {
+        "oc": "սիրել ",
+        "or": "սիրել ",
+        "fr": "chérir ",
+        "en": "to cherish ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe60": {
+        "oc": "ձիավարել",
+        "or": "ձիավարել",
+        "fr": "chevaucher",
+        "en": "to ride",
+        "info_oc": "ձիավարել :monter à cheval / to ride a horse",
+        "info_or": "ձիավարել :monter à cheval / to ride a horse"
+    },
+    "verbe61": {
+        "oc": "ընտրել ",
+        "or": "ընտրել ",
+        "fr": "choisir",
+        "en": "to choose",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe62": {
+        "oc": "փսփսալ",
+        "or": "փսփսալ",
+        "fr": "chuchoter",
+        "en": "to whisper",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe63": {
+        "oc": "կցել",
+        "or": "կպցնել",
+        "fr": "coller",
+        "en": "to stick",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe64": {
+        "oc": "հրամայել",
+        "or": "հրամայել",
+        "fr": "commander ",
+        "en": "to command",
+        "info_oc": "ordonner/to order to",
+        "info_or": "ordonner/to order to"
+    },
+    "verbe65": {
+        "oc": "Սկսիլ",
+        "or": "սկսել",
+        "fr": "commencer",
+        "en": "to start",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe66": {
+        "oc": "հաղորդել",
+        "or": "հաղորդել",
+        "fr": "communiquer",
+        "en": "to communicate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe67": {
+        "oc": "պակասը լրացնել",
+        "or": "պակասը լրացնել",
+        "fr": "compléter",
+        "en": "to fill ",
+        "info_oc": "պակասը լրացնել compléter (le manquant). to fill (the missing)",
+        "info_or": "պակասը լրացնել compléter (le manquant). to fill (the missing)"
+    },
+    "verbe68": {
+        "oc": "հասկնալ",
+        "or": "հասկանալ",
+        "fr": "comprendre",
+        "en": "to understand",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe69": {
+        "oc": "ճնշել ",
+        "or": "ճզմել",
+        "fr": "comprimer",
+        "en": "to press  ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe70": {
+        "oc": "համրել",
+        "or": "համրել",
+        "fr": "compter",
+        "en": "to count",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe71": {
+        "oc": "տանիլ  ",
+        "or": "քշել",
+        "fr": "conduire",
+        "en": "to drive",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe72": {
+        "oc": "խոնարհել",
+        "or": "խոնարհել",
+        "fr": "conjuguer",
+        "en": "to conjugate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe73": {
+        "oc": "ճանչնալ ",
+        "or": "ճանաչել ",
+        "fr": "connaître ",
+        "en": "to know   ",
+        "info_oc": "ճանչնալ:connaître(qqn)/to know(someone)",
+        "info_or": "ճանչնալ:connaître(qqn)/to know(someone)"
+    },
+    "verbe74": {
+        "oc": "գրաւել",
+        "or": "գրավել",
+        "fr": "conquérir",
+        "en": "to conquer",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe75": {
+        "oc": "խորհուդ տալ",
+        "or": "խորհուդ տալ",
+        "fr": "conseiller",
+        "en": "to advice",
+        "info_oc": "խորհուդ տալ:donner(conseil)/to give(advice)",
+        "info_or": "խորհուդ տալ:donner(conseil)/to give(advice)"
+    },
+    "verbe76": {
+        "oc": "շինել ",
+        "or": "շինել ",
+        "fr": "construire",
+        "en": "to construct",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe77": {
+        "oc": "շարունակել",
+        "or": "շարունակել",
+        "fr": "continuer",
+        "en": "to continue",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe78": {
+        "oc": "քննել  ",
+        "or": "քննել  ",
+        "fr": "contrôler",
+        "en": "to control",
+        "info_oc": "քննել  :contrôler(vérifier)/to control(check)",
+        "info_or": "քննել  :contrôler(vérifier)/to control(check)"
+    },
+    "verbe79": {
+        "oc": "փոխարկել",
+        "or": "փոխարկել",
+        "fr": "convertir",
+        "en": "to convert",
+        "info_oc": "convertir(changer)/to convert(change)",
+        "info_or": "convertir(changer)/to convert(change)"
+    },
+    "verbe80": {
+        "oc": "հաւատքի դառնալ",
+        "or": "հավատքի դառնալ",
+        "fr": "convertir ",
+        "en": "to convert ",
+        "info_oc": "հաւատքի դառնալ:convertir(religion)/to convert(religion)",
+        "info_or": "հաւատքի դառնալ:convertir(religion)/to convert(religion)"
+    },
+    "verbe81": {
+        "oc": "օրինակել",
+        "or": "ընդօրինակել",
+        "fr": "copier",
+        "en": "to copy",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe82": {
+        "oc": "կարել",
+        "or": "կարել",
+        "fr": "coudre",
+        "en": "to sew",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe83": {
+        "oc": "կտրել",
+        "or": "կտրել",
+        "fr": "couper",
+        "en": "to cut",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe84": {
+        "oc": "Վազել",
+        "or": "վազել",
+        "fr": "courir",
+        "en": "to run",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe85": {
+        "oc": "արժել",
+        "or": "արժել",
+        "fr": "coûter",
+        "en": "to cost",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe86": {
+        "oc": "ստեղծել",
+        "or": "ստեղծել",
+        "fr": "créer",
+        "en": "to create",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe87": {
+        "oc": "փորել",
+        "or": "փորել",
+        "fr": "creuser",
+        "en": "to dig",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe88": {
+        "oc": "պեղել",
+        "or": "պեղել",
+        "fr": "excaver",
+        "en": "to excavate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe89": {
+        "oc": "պոռալ",
+        "or": "պոռալ",
+        "fr": "crier",
+        "en": "to yell",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe90": {
+        "oc": "պոռալ ",
+        "or": "պոռալ ",
+        "fr": "crier ",
+        "en": "to cry ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe91": {
+        "oc": "պոռալ  ",
+        "or": "պոռալ  ",
+        "fr": "crier  ",
+        "en": "to shout",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe92": {
+        "oc": "կարծել",
+        "or": "կարծել",
+        "fr": "croire",
+        "en": "to believe",
+        "info_oc": "croire/penser(avis). to believe/think",
+        "info_or": "croire/penser(avis). to believe/think"
+    },
+    "verbe93": {
+        "oc": "Հաւատալ",
+        "or": "հավատալ",
+        "fr": "croire ",
+        "en": "to believe ",
+        "info_oc": "croire(foi)/to believe(faith)",
+        "info_or": "croire(foi)/to believe(faith)"
+    },
+    "verbe94": {
+        "oc": "Քաղել",
+        "or": "քաղել",
+        "fr": "cueillir",
+        "en": "to pick",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe95": {
+        "oc": "եփել",
+        "or": "եփել",
+        "fr": "cuire",
+        "en": "to cook ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe96": {
+        "oc": "ճաշ եփել",
+        "or": "ճաշ եփել",
+        "fr": "cuisiner",
+        "en": "to cook",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe97": {
+        "oc": "Պարել",
+        "or": "պարել",
+        "fr": "danser",
+        "en": "to dance",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe98": {
+        "oc": "յուսախաբել",
+        "or": "հուսախաբել",
+        "fr": "décevoir",
+        "en": "to disappoint",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe99": {
+        "oc": "որոշել",
+        "or": "որոշել",
+        "fr": "décider",
+        "en": "to decide",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe100": {
+        "oc": "թռչիլ ",
+        "or": "թռչել ",
+        "fr": "décoller",
+        "en": "to take off",
+        "info_oc": "թռչիլ :décoller(voler)/to take off(fly)",
+        "info_or": "թռչիլ :décoller(voler)/to take off(fly)"
+    },
+    "verbe101": {
+        "oc": "հնարել ",
+        "or": "հայտնաբերել",
+        "fr": "découvrir",
+        "en": "to discover",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe102": {
+        "oc": "արհամարհել",
+        "or": "արհամարհել",
+        "fr": "dédaigner",
+        "en": "to disdain",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe103": {
+        "oc": "պաշտպանել",
+        "or": "պաշտպանել",
+        "fr": "défendre",
+        "en": "to defend",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe104": {
+        "oc": "ջատագովել",
+        "or": "ջատագովել",
+        "fr": "défendre ",
+        "en": "to defend ",
+        "info_oc": "ջատագովել:défendre(soutenir/plaider)/to defend(support)",
+        "info_or": "ջատագովել:défendre(soutenir/plaider)/to defend(support)"
+    },
+    "verbe105": {
+        "oc": "դիմագրաւել ",
+        "or": "չենթարկվել",
+        "fr": "défier",
+        "en": "to defy",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe106": {
+        "oc": "դիմագրաւել",
+        "or": "դիմագրավել",
+        "fr": "confronter",
+        "en": "to confront",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe107": {
+        "oc": "նախաճաշել",
+        "or": "նախաճաշել",
+        "fr": "déjeuner",
+        "en": "to lunch",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe108": {
+        "oc": "հարցնել",
+        "or": "հարցնել",
+        "fr": "demander",
+        "en": "to ask",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe109": {
+        "oc": "Փոխադուիլ",
+        "or": "տեղափոխվել",
+        "fr": "déménager",
+        "en": "to move out",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe110": {
+        "oc": "ապացուցանել",
+        "or": "ցուցադրել",
+        "fr": "démontrer",
+        "en": "to demonstrate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe111": {
+        "oc": "տեղափոխել",
+        "or": "շարժվել",
+        "fr": "déplacer",
+        "en": "to deplace",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe112": {
+        "oc": "իջնալ",
+        "or": "իջնել",
+        "fr": "descendre",
+        "en": "to descend",
+        "info_oc": "իջնալ:descendre-attérrir/to descend-land",
+        "info_or": "իջնել:descendre-attérrir/to descend-land"
+    },
+    "verbe113": {
+        "oc": "փափաքիլ",
+        "or": "փափագել",
+        "fr": "désirer",
+        "en": "to desire",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe114": {
+        "oc": "գծել",
+        "or": "գծել",
+        "fr": "dessiner",
+        "en": "to draw",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe115": {
+        "oc": "ատել",
+        "or": "ատել",
+        "fr": "détester",
+        "en": "to hate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe116": {
+        "oc": "Քանդել",
+        "or": "քանդել",
+        "fr": "détruire",
+        "en": "to destroy",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe117": {
+        "oc": "ըլլալ ",
+        "or": "լինել ",
+        "fr": "devenir",
+        "en": "to become",
+        "info_oc": "être/to become : եմ ##",
+        "info_or": "être/to become : եմ ##"
+    },
+    "verbe118": {
+        "oc": "գուշակել",
+        "or": "գուշակել",
+        "fr": "deviner",
+        "en": "to guess",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe119": {
+        "oc": "",
+        "or": "",
+        "fr": "devoir",
+        "en": "to must",
+        "info_oc": "devoir:utiliser պետք է (il faut) ou le participe futur en ու (ex: je dois chanter=երգելու եմ. mode obligatif) / to must:use պետք է (it is necessary to) or the futur particle ending with ու (eg:I must sing=երգելու եմ. necessitative mood)",
+        "info_or": "devoir:utiliser պետք է (il faut) ou le participe futur en ու (ex: je dois chanter=երգելու եմ) / to must:use պետք է (it is necessary to) or the futur particle ending with ու (eg:I must sing=երգելու եմ)"
+    },
+    "verbe120": {
+        "oc": "ճաշել",
+        "or": "ճաշել",
+        "fr": "diner",
+        "en": "to dine",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe121": {
+        "oc": "Ըսել",
+        "or": "ասել",
+        "fr": "dire",
+        "en": "to say",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe122": {
+        "oc": "վարել",
+        "or": "վարել",
+        "fr": "diriger",
+        "en": "to lead",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe123": {
+        "oc": "բաժնուիլ ",
+        "or": "բաժանվել ",
+        "fr": "divorcer",
+        "en": "to divorce",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe124": {
+        "oc": "Տալ",
+        "or": "տալ",
+        "fr": "donner",
+        "en": "to give",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe125": {
+        "oc": "լուր տալ",
+        "or": "լուր տալ",
+        "fr": "donner des nouvelles",
+        "en": "to give news",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe126": {
+        "oc": "Ննջել",
+        "or": "ննջալ",
+        "fr": "dormir",
+        "en": "to sleep",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe127": {
+        "oc": "Քնանալ",
+        "or": "քնել",
+        "fr": "dormir ",
+        "en": "to sleep ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe128": {
+        "oc": "կասկածիլ",
+        "or": "կասկածել",
+        "fr": "douter",
+        "en": "to doubt",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe129": {
+        "oc": "մտիկնել",
+        "or": "լսել ",
+        "fr": "écouter",
+        "en": "to listen",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe130": {
+        "oc": "ճզնել",
+        "or": "փշրել",
+        "fr": "écraser",
+        "en": "to crush",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe131": {
+        "oc": "գրել",
+        "or": "գրել",
+        "fr": "écrire",
+        "en": "to write",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe132": {
+        "oc": "ջնջել",
+        "or": "ջնջել",
+        "fr": "effacer",
+        "en": "to erase",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe133": {
+        "oc": "խեղդել",
+        "or": "կոտորել",
+        "fr": "égorger",
+        "en": "to slay",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe134": {
+        "oc": "խեղդել ",
+        "or": "խեղդել",
+        "fr": "égorger ",
+        "en": "to bleed white",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe135": {
+        "oc": "ընտրել",
+        "or": "ընտրել",
+        "fr": "élire",
+        "en": "to elect",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe136": {
+        "oc": "համբուրել",
+        "or": "համբուրել",
+        "fr": "embrasser",
+        "en": "to kiss",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe137": {
+        "oc": "գրկել",
+        "or": "գրկել",
+        "fr": "embrasser ",
+        "en": "to hug",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe138": {
+        "oc": "Տանիլ",
+        "or": "տանել",
+        "fr": "emmener",
+        "en": "to take away",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe139": {
+        "oc": "արգիլել ",
+        "or": "կանխել",
+        "fr": "empêcher",
+        "en": "to prevent",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe140": {
+        "oc": "փոխ առնել",
+        "or": "փոխ առնել",
+        "fr": "emprunter",
+        "en": "to borrow",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe141": {
+        "oc": "քաջալերել",
+        "or": "քաջալերել",
+        "fr": "encourager",
+        "en": "to encourage",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe142": {
+        "oc": "ջղայնացնել",
+        "or": "ջղայնացնել",
+        "fr": "énerver",
+        "en": "to irritate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe143": {
+        "oc": "դրժել",
+        "or": "դրժել",
+        "fr": "enfreindre",
+        "en": "to infringe",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe144": {
+        "oc": "վերցնել ",
+        "or": "հեռացնել",
+        "fr": "enlever",
+        "en": "to remove ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe145": {
+        "oc": "սորվեցնել",
+        "or": "սորվեցնել",
+        "fr": "enseigner",
+        "en": "to teach",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe146": {
+        "oc": "Լսել",
+        "or": "լսել",
+        "fr": "entendre",
+        "en": "to hear",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe147": {
+        "oc": "Մտնել",
+        "or": "մտնել",
+        "fr": "entrer",
+        "en": "to enter",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe148": {
+        "oc": "Ղրկել",
+        "or": "ուղարկել",
+        "fr": "envoyer",
+        "en": "to send",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe149": {
+        "oc": "ամուսնանալ ",
+        "or": "ամուսնանալ ",
+        "fr": "épouser",
+        "en": "to wed",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe150": {
+        "oc": "ամուսնանալ  ",
+        "or": "ամուսնանալ  ",
+        "fr": "épouser ",
+        "en": "to marry",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe151": {
+        "oc": "յուսալ",
+        "or": "հուսալ",
+        "fr": "espérer",
+        "en": "to hope",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe152": {
+        "oc": "Փորձել",
+        "or": "փորձել",
+        "fr": "essayer",
+        "en": "to try",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe153": {
+        "oc": "մարել",
+        "or": "անջատել",
+        "fr": "éteindre",
+        "en": "to switch off",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe154": {
+        "oc": "մարել ",
+        "or": "մարել",
+        "fr": "éteindre ",
+        "en": "to extinguish",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe155": {
+        "oc": "տարածել",
+        "or": "տարածել",
+        "fr": "étendre",
+        "en": "to spread ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe156": {
+        "oc": "փռնգալ",
+        "or": "փռշտալ",
+        "fr": "éternuer",
+        "en": "to sneeze",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe157": {
+        "oc": "եմ",
+        "or": "եմ",
+        "fr": "être",
+        "en": "to be",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe158": {
+        "oc": "կամ",
+        "or": "կամ",
+        "fr": "être présent",
+        "en": "to be present",
+        "info_oc": "eg : անձրեւ կայ / il y a de la pluie / there is rain",
+        "info_or": "eg : անձրեւ կայ / il y a de la pluie / there is rain"
+    },
+    "verbe159": {
+        "oc": "ուսանիլ",
+        "or": "ուսանել",
+        "fr": "étudier",
+        "en": "to study",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe160": {
+        "oc": "Չափազանցնել",
+        "or": "չափազանցնել",
+        "fr": "éxagérer",
+        "en": "to overstate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe161": {
+        "oc": "քննել",
+        "or": "քննել",
+        "fr": "examiner",
+        "en": "to review",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe162": {
+        "oc": "Շինել",
+        "or": "շինել",
+        "fr": "fabriquer",
+        "en": "to make",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe163": {
+        "oc": "Ընել",
+        "or": "անել",
+        "fr": "faire",
+        "en": "to do",
+        "info_oc": "fabriquer/make : շինել",
+        "info_or": "fabriquer/make : շինել"
+    },
+    "verbe164": {
+        "oc": "Նստեցնել",
+        "or": "նստեցնել",
+        "fr": "faire assoir",
+        "en": "to make sit",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe165": {
+        "oc": "վստահել",
+        "or": "վստահել",
+        "fr": "faire confiance",
+        "en": "to trust",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe166": {
+        "oc": "վստահիլ",
+        "or": "վստահել ",
+        "fr": "faire confiance ",
+        "en": "to trust ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe167": {
+        "oc": "կատարել սէր",
+        "or": "կատարել սեր",
+        "fr": "faire l'amour",
+        "en": "to make love",
+        "info_oc": "կատարել սէր : faire(accomplir) l'amour/to make(accomplish) love##",
+        "info_or": "կատարել սեր : faire(accomplir) l'amour/to make(accomplish) love##"
+    },
+    "verbe168": {
+        "oc": "Վախցնել",
+        "or": "վախեցնել",
+        "fr": "faire peur",
+        "en": "to scary",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe169": {
+        "oc": "թռցնել",
+        "or": "թռցնել",
+        "fr": "faire voler",
+        "en": "to make fly",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe170": {
+        "oc": "Յոգնել",
+        "or": "հոգնել",
+        "fr": "fatiguer",
+        "en": "to tire",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe171": {
+        "oc": "Գոցել",
+        "or": "փակել",
+        "fr": "fermer",
+        "en": "to close",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe172": {
+        "oc": "լմնցնել",
+        "or": "վերջանալ",
+        "fr": "finir",
+        "en": "to finish",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe173": {
+        "oc": "հիմնել",
+        "or": "հիմնել",
+        "fr": "fonder",
+        "en": "to found",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe174": {
+        "oc": "Զարնել",
+        "or": "զարկել",
+        "fr": "frapper",
+        "en": "to hit",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe175": {
+        "oc": "զարնել  ",
+        "or": "զարկել ",
+        "fr": "frapper ",
+        "en": "to knock",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe176": {
+        "oc": "Փախչել",
+        "or": "փախչել",
+        "fr": "fuir",
+        "en": "to flee",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe177": {
+        "oc": "Ծխել",
+        "or": "ծխել",
+        "fr": "fumer",
+        "en": "to smoke",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe178": {
+        "oc": "շահիլ",
+        "or": "շահել",
+        "fr": "gagner",
+        "en": "to win",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe179": {
+        "oc": "յաղթել  ",
+        "or": "հաղթել  ",
+        "fr": "gagner ",
+        "en": "to win ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe180": {
+        "oc": "տեղաւորել",
+        "or": "տեղավորել",
+        "fr": "garer",
+        "en": "to park",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe181": {
+        "oc": "փտիլ ",
+        "or": "փտել ",
+        "fr": "gâter",
+        "en": "to spoil ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe182": {
+        "oc": "իշխել ",
+        "or": "իշխել ",
+        "fr": "gouverner",
+        "en": "to governate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe183": {
+        "oc": "ներել ",
+        "or": "ներել ",
+        "fr": "gracier",
+        "en": "to pardon",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe184": {
+        "oc": "մեծնալ",
+        "or": "մեծանալ",
+        "fr": "grandir",
+        "en": "to grow",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe185": {
+        "oc": "Հագուեցնել",
+        "or": "հագցնել",
+        "fr": "habiller",
+        "en": "to dress",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe186": {
+        "oc": "բնակիլ",
+        "or": "բնակվել",
+        "fr": "habiter",
+        "en": "to live ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe187": {
+        "oc": "բնակիլ ",
+        "or": "բնակվել ",
+        "fr": "habiter ",
+        "en": "to habit",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe188": {
+        "oc": "ատել ",
+        "or": "ատել ",
+        "fr": "haïr",
+        "en": "to hate ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe189": {
+        "oc": "բարձրանալ ",
+        "or": "բարձրանալ ",
+        "fr": "hausser",
+        "en": "to higher",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe190": {
+        "oc": "ժառանգել",
+        "or": "ժառանգել",
+        "fr": "hériter",
+        "en": "to inherit",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe191": {
+        "oc": "մեծարել",
+        "or": "պատվել",
+        "fr": "honorer",
+        "en": "to honor",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe192": {
+        "oc": "ոռնալ",
+        "or": "ոռնալ",
+        "fr": "hurler",
+        "en": "to scream",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe193": {
+        "oc": "երեւակայել ",
+        "or": "երեվակայել",
+        "fr": "imaginer ",
+        "en": "to imagine ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe194": {
+        "oc": "խնդրել  ",
+        "or": "խնդրել  ",
+        "fr": "implorer",
+        "en": "to implore",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe195": {
+        "oc": "տեղեկացնել",
+        "or": "տեղեկացնել",
+        "fr": "informer",
+        "en": "to inform",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe196": {
+        "oc": "նախատել ",
+        "or": "վիրավորել ",
+        "fr": "injurier",
+        "en": "to insult ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe197": {
+        "oc": "ուսուցանել",
+        "or": "ուսուցանել",
+        "fr": "instruire",
+        "en": "to instruct",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe198": {
+        "oc": "նախատել",
+        "or": "վիրավորել  ",
+        "fr": "insulter",
+        "en": "to insult",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe199": {
+        "oc": "արգիլել",
+        "or": "արգելել",
+        "fr": "interdire",
+        "en": "to forbid",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe200": {
+        "oc": "հնարել",
+        "or": "հնարել",
+        "fr": "inventer",
+        "en": "to invent",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe201": {
+        "oc": "Հրաւիրել",
+        "or": "հրավիրել",
+        "fr": "inviter",
+        "en": "to invite",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe202": {
+        "oc": "նետել",
+        "or": "նետել",
+        "fr": "jeter",
+        "en": "to throw",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe203": {
+        "oc": "միանալ",
+        "or": "միանալ",
+        "fr": "joindre",
+        "en": "to join",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe204": {
+        "oc": "միանալ ",
+        "or": "միանալ ",
+        "fr": "s'unir",
+        "en": "to get united",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe205": {
+        "oc": "խաղալ",
+        "or": "խաղալ",
+        "fr": "jouer",
+        "en": "to play",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe206": {
+        "oc": "Կանգնիլ",
+        "or": "կանգնել",
+        "fr": "lever",
+        "en": "to get up someone",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe207": {
+        "oc": "ազատել",
+        "or": "ազատել",
+        "fr": "libérer",
+        "en": "to free",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe208": {
+        "oc": "Կարդալ",
+        "or": "կարդալ",
+        "fr": "lire",
+        "en": "to read",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe209": {
+        "oc": "պայքարիլ",
+        "or": "պայքարել",
+        "fr": "lutter",
+        "en": "to struggle",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe210": {
+        "oc": "նիհարնալ",
+        "or": "նիհարել",
+        "fr": "maigrir",
+        "en": "to slim",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe211": {
+        "oc": "տիրապետել",
+        "or": "տիրապետել",
+        "fr": "maîtriser",
+        "en": "to master",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe212": {
+        "oc": "Ուտել",
+        "or": "ուտել",
+        "fr": "manger",
+        "en": "to eat",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe213": {
+        "oc": "Քալել",
+        "or": "քալել",
+        "fr": "marcher",
+        "en": "to walk",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe214": {
+        "oc": "ամուսնացնել",
+        "or": "ամուսնացնել",
+        "fr": "marier",
+        "en": "to make someone marry",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe215": {
+        "oc": "ամուսնացնել ",
+        "or": "ամուսնացնել ",
+        "fr": "marier ",
+        "en": "to make someone wed",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe216": {
+        "oc": "ջարդել",
+        "or": "կոտորել ",
+        "fr": "massacrer",
+        "en": "to slain",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe217": {
+        "oc": "խառնել",
+        "or": "խառնել",
+        "fr": "mélanger",
+        "en": "to mix",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe218": {
+        "oc": "ստել",
+        "or": "ստել",
+        "fr": "mentir",
+        "en": "to lie",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe219": {
+        "oc": "խաբել  ",
+        "or": "խաբել  ",
+        "fr": "mentir ",
+        "en": "to lie ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe220": {
+        "oc": "անարգել",
+        "or": "անարգել",
+        "fr": "mépriser",
+        "en": "to despise",
+        "info_oc": "արհամարհել : dédaigner/to disdain",
+        "info_or": "արհամարհել : dédaigner/to disdain"
+    },
+    "verbe221": {
+        "oc": "անարգել ",
+        "or": "անարգել ",
+        "fr": "mépriser ",
+        "en": "to scorn",
+        "info_oc": "արհամարհել : dédaigner/to disdain",
+        "info_or": "արհամարհել : dédaigner/to disdain"
+    },
+    "verbe222": {
+        "oc": "արժանանալ",
+        "or": "արժանանալ",
+        "fr": "mériter",
+        "en": "to deserve",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe223": {
+        "oc": "չափել",
+        "or": "չափել",
+        "fr": "mesurer",
+        "en": "to measure",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe224": {
+        "oc": "Դնել",
+        "or": "դնել",
+        "fr": "mettre",
+        "en": "to put",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe225": {
+        "oc": "վերջացնել",
+        "or": "վերջացնել",
+        "fr": "mettre fin",
+        "en": "to end",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe226": {
+        "oc": "բարակնալ",
+        "or": "բարակնալ",
+        "fr": "mincir",
+        "en": "to thin",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe227": {
+        "oc": "բարձրանալ",
+        "or": "բարձրանալ",
+        "fr": "monter",
+        "en": "to go up",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe228": {
+        "oc": "ձիավարել ",
+        "or": "ձիավարել ",
+        "fr": "monter à cheval",
+        "en": "to mount",
+        "info_oc": "ձիավարել :monter à cheval / to mount a horse",
+        "info_or": "ձիավարել :monter à cheval / to mount a horse"
+    },
+    "verbe229": {
+        "oc": "ցուցնել",
+        "or": "ցույց տալ",
+        "fr": "montrer",
+        "en": "to show",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe230": {
+        "oc": "խածնել",
+        "or": "կծել",
+        "fr": "mordre",
+        "en": "to bite",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe231": {
+        "oc": "աղալ",
+        "or": "աղալ",
+        "fr": "moudre",
+        "en": "to grind",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe232": {
+        "oc": "աղալ ",
+        "or": "աղալ ",
+        "fr": "moudre ",
+        "en": "to mill",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe233": {
+        "oc": "Մեռնիլ",
+        "or": "մեռնել",
+        "fr": "mourir",
+        "en": "to die",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe234": {
+        "oc": "մահանալ ",
+        "or": "մահանալ ",
+        "fr": "mourir ",
+        "en": "to die ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe235": {
+        "oc": "սատկիլ",
+        "or": "սատկել",
+        "fr": "crever",
+        "en": "to die  ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe236": {
+        "oc": "փսփսալ ",
+        "or": "փսփսալ ",
+        "fr": "murmurer",
+        "en": "to whisper ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe237": {
+        "oc": "Լողալ",
+        "or": "լողալ",
+        "fr": "nager",
+        "en": "to swim",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe238": {
+        "oc": "ծնիլ",
+        "or": "ծնվել",
+        "fr": "naître",
+        "en": "to born",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe239": {
+        "oc": "նաւարկել",
+        "or": "նավարկել",
+        "fr": "naviguer",
+        "en": "to navigate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe240": {
+        "oc": "ձիւն տեղալ",
+        "or": "ձյուն տեղալ",
+        "fr": "neiger",
+        "en": "to snow",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe241": {
+        "oc": "մաքրել",
+        "or": "մաքրել",
+        "fr": "nettoyer",
+        "en": "to clean",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe242": {
+        "oc": "հրամայել ",
+        "or": "հրամայել ",
+        "fr": "ordonner",
+        "en": "to order",
+        "info_oc": "հրամայել:ordonner(commander)/to oder(command)",
+        "info_or": "հրամայել:ordonner(commander)/to oder(command)"
+    },
+    "verbe243": {
+        "oc": "կարգաւորել",
+        "or": "կարգավորել",
+        "fr": "organiser",
+        "en": "to organise",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe244": {
+        "oc": "հանել",
+        "or": "հանել",
+        "fr": "ôter",
+        "en": "to remove",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe245": {
+        "oc": "Մոռնալ",
+        "or": "մոռանալ",
+        "fr": "oublier",
+        "en": "to forget",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe246": {
+        "oc": "Բանալ ",
+        "or": "բանալ",
+        "fr": "ouvrir ",
+        "en": "to open ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe247": {
+        "oc": "երեւիլ",
+        "or": "թվալ",
+        "fr": "paraître",
+        "en": "to seem",
+        "info_oc": "ex : կ'երեւի թե... il paraît que... / it seems that...",
+        "info_or": ""
+    },
+    "verbe248": {
+        "oc": "երեւնալ",
+        "or": "թվալ ",
+        "fr": "paraître ",
+        "en": "to seem ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe249": {
+        "oc": "ներել",
+        "or": "ներել",
+        "fr": "pardonner",
+        "en": "to forgive",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe250": {
+        "oc": "Խօսիլ ",
+        "or": "խոսել ",
+        "fr": "parler ",
+        "en": "to talk",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe251": {
+        "oc": "Երթալ ",
+        "or": "գնալ  ",
+        "fr": "partir",
+        "en": "to go ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe252": {
+        "oc": "Անցնիլ",
+        "or": "անցնել",
+        "fr": "passer",
+        "en": "to happen",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe253": {
+        "oc": "Վճարել",
+        "or": "վճարել",
+        "fr": "payer",
+        "en": "to pay",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe254": {
+        "oc": "ներկել",
+        "or": "ներկել",
+        "fr": "peindre",
+        "en": "to paint",
+        "info_oc": "ներկել:peindre(mur/qqch)/to paint(wall/smth)",
+        "info_or": "ներկել:peindre(mur/qqch)/to paint(wall/smth)"
+    },
+    "verbe255": {
+        "oc": "նկարել",
+        "or": "նկարել",
+        "fr": "peindre ",
+        "en": "to paint ",
+        "info_oc": "նկարել:peindre(tableau)/to paint(picture)",
+        "info_or": "նկարել:peindre(tableau)/to paint(picture)"
+    },
+    "verbe256": {
+        "oc": "Մտածել",
+        "or": "մտածել",
+        "fr": "penser",
+        "en": "to think",
+        "info_oc": "Յիշել : penser(se souvenir)/to think(to remember)",
+        "info_or": "Յիշել : penser(se souvenir)/to think(to remember)"
+    },
+    "verbe257": {
+        "oc": "ծակել անցնիլ",
+        "or": "ծակել",
+        "fr": "percer",
+        "en": "to pierce",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe258": {
+        "oc": "կորսնցնել",
+        "or": "կորցնել",
+        "fr": "perdre",
+        "en": "to lose",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe259": {
+        "oc": "անհետանալ",
+        "or": "անհետանալ",
+        "fr": "disparaître",
+        "en": "to disappear",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe260": {
+        "oc": "Թողուլ",
+        "or": "թույլ տալ",
+        "fr": "permettre",
+        "en": "to allow",
+        "info_oc": "",
+        "info_or": "թույլատրել / թույլ տալ : donner(permission)/to give(permission)"
+    },
+    "verbe261": {
+        "oc": "կշռել",
+        "or": "կշռել",
+        "fr": "peser",
+        "en": "to weigh",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe262": {
+        "oc": "շռել",
+        "or": "շռել",
+        "fr": "pisser",
+        "en": "to piss",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe263": {
+        "oc": "շռել ",
+        "or": "շռել ",
+        "fr": "pisser ",
+        "en": "to pee",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe264": {
+        "oc": "դատ պաշտպանել",
+        "or": "դատ պաշտպանել",
+        "fr": "plaider",
+        "en": "to plead",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe265": {
+        "oc": "հաճելի ըլլալ",
+        "or": "դուր գալ",
+        "fr": "plaire",
+        "en": "to please",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe266": {
+        "oc": "կատակել ",
+        "or": "կատակել ",
+        "fr": "plaisanter",
+        "en": "to kid",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe267": {
+        "oc": "տնկել",
+        "or": "տնկել",
+        "fr": "planter",
+        "en": "to plant",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe268": {
+        "oc": "Լալ",
+        "or": "լալ",
+        "fr": "pleurer",
+        "en": "to cry",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe269": {
+        "oc": "անձրեւ տեղալ",
+        "or": "անձրեւ տեղալ",
+        "fr": "pleuvoir ",
+        "en": "to rain ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe270": {
+        "oc": "սուզուիլ",
+        "or": "սուզվել",
+        "fr": "plonger",
+        "en": "to dive",
+        "info_oc": "սուզուիլ:plonger(s'immerger)/to dive in",
+        "info_or": "սուզուիլ:plonger(s'immerger)/to dive in"
+    },
+    "verbe271": {
+        "oc": "սուզուիլ ",
+        "or": "չքանալ",
+        "fr": "plonger ",
+        "en": "to plunge",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe272": {
+        "oc": "տանիլ ",
+        "or": "կրել",
+        "fr": "porter",
+        "en": "to carry",
+        "info_oc": "տանիլ: porter/tenir un objet |to carry/hold an item",
+        "info_or": "տանիլ: porter/tenir un objet |to carry/hold an item"
+    },
+    "verbe273": {
+        "oc": "կրել",
+        "or": "կրել ",
+        "fr": "porter ",
+        "en": "to wear",
+        "info_oc": "կրել:porter un chapeau/to wear a hat. autre vêtement/other clothes : հագուիլ",
+        "info_or": "կրել:porter un chapeau/to wear a hat. autre vêtement/other clothes : հագնել"
+    },
+    "verbe274": {
+        "oc": "ունենալ ",
+        "or": "ունենալ ",
+        "fr": "posséder",
+        "en": "to own",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe275": {
+        "oc": "փտիլ",
+        "or": "փտել",
+        "fr": "pourrir",
+        "en": "to spoil",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe276": {
+        "oc": "Հրել",
+        "or": "հրել",
+        "fr": "pousser",
+        "en": "to push",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe277": {
+        "oc": "Կարենալ",
+        "or": "կարողանալ",
+        "fr": "pouvoir",
+        "en": "to can",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe278": {
+        "oc": "գուշակել ",
+        "or": "գուշակել ",
+        "fr": "prédire",
+        "en": "to foretell",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe279": {
+        "oc": "նախընտրել",
+        "or": "նախընտրել",
+        "fr": "préférer",
+        "en": "to prefer",
+        "info_oc": "aimer mieux/to prefer more",
+        "info_or": "aimer mieux/to prefer more"
+    },
+    "verbe280": {
+        "oc": "նախադասել ",
+        "or": "նախադասել ",
+        "fr": "préférer ",
+        "en": "to prefer ",
+        "info_oc": "aimer par ordre/to like by order",
+        "info_or": "aimer par ordre/to like by order,aimer par ordre/to like by order,aimer par ordre/to like by order"
+    },
+    "verbe281": {
+        "oc": "նախադասել",
+        "or": "նախադասել",
+        "fr": "préfixer",
+        "en": "to prefix",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe282": {
+        "oc": "Առնել",
+        "or": "առնել",
+        "fr": "prendre",
+        "en": "to take",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe283": {
+        "oc": "պատրաստել",
+        "or": "պատրաստել",
+        "fr": "préparer",
+        "en": "to prepare",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe284": {
+        "oc": "ներկայացնել",
+        "or": "ներկայացնել",
+        "fr": "présenter",
+        "en": "to present",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe285": {
+        "oc": "ցուցադրել",
+        "or": "ցուցադրել",
+        "fr": "afficher",
+        "en": "to display",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe286": {
+        "oc": "ճնշել",
+        "or": "արդուկել ",
+        "fr": "presser",
+        "en": "to press",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe287": {
+        "oc": "քամել",
+        "or": "քամել",
+        "fr": "presser ",
+        "en": "to squeeze ",
+        "info_oc": "presser un fruit/to squeeze a fruit",
+        "info_or": "presser un fruit/to squeeze a fruit"
+    },
+    "verbe288": {
+        "oc": "շտապիլ",
+        "or": "շտապեցնել",
+        "fr": "presser  ",
+        "en": "to urge",
+        "info_oc": "presser quelqu'un/to urge someone",
+        "info_or": "presser quelqu'un/to urge someone"
+    },
+    "verbe289": {
+        "oc": "շտապիլ",
+        "or": "շտապել",
+        "fr": "se presser",
+        "en": "to urge oneself",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe290": {
+        "oc": "տալ ",
+        "or": "տալ ",
+        "fr": "prêter",
+        "en": "to lend",
+        "info_oc": "փոխ տալ",
+        "info_or": "փոխ տալ"
+    },
+    "verbe291": {
+        "oc": "իմացնել ",
+        "or": "նախազգուշացնել",
+        "fr": "prévenir",
+        "en": "to warn",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe292": {
+        "oc": "աղօթել",
+        "or": "Աղոթել ",
+        "fr": "prier",
+        "en": "to pray",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe293": {
+        "oc": "Աղոթել",
+        "or": "աղոթել",
+        "fr": "prier ",
+        "en": "to pray ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe294": {
+        "oc": "խնդրել",
+        "or": "խնդրել",
+        "fr": "prier de",
+        "en": "to ask",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe295": {
+        "oc": "մուրալ",
+        "or": "մուրալ",
+        "fr": "mendier",
+        "en": "to beg",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe296": {
+        "oc": "արտաբերել",
+        "or": "արտաբերել",
+        "fr": "proférer",
+        "en": "to utter",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe297": {
+        "oc": "պաշտպանել ",
+        "or": "պաշտպանել ",
+        "fr": "protéger",
+        "en": "to protect",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe298": {
+        "oc": "ապացուցել",
+        "or": "ապացուցել",
+        "fr": "prouver",
+        "en": "to prove",
+        "info_oc": "prouver/to prove (démontrer/demonstrate)",
+        "info_or": "prouver/to prove (démontrer/demonstrate)"
+    },
+    "verbe299": {
+        "oc": "երթալ  ",
+        "or": "գնալ ",
+        "fr": "quitter",
+        "en": "to leave",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe300": {
+        "oc": "կրճատել",
+        "or": "կրճատել",
+        "fr": "raccourcir",
+        "en": "to shorten",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe301": {
+        "oc": "պատմել",
+        "or": "պատմել",
+        "fr": "raconter",
+        "en": "to tell ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe302": {
+        "oc": "Սողալ",
+        "or": "սողալ",
+        "fr": "ramper",
+        "en": "to crawl",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe303": {
+        "oc": "Ստանալ",
+        "or": "ստանալ",
+        "fr": "recevoir",
+        "en": "to receive",
+        "info_oc": "(quelque chose/something). pour/for accueillir/to welcome : ընդունիլ",
+        "info_or": "(quelque chose/something). pour/for accueillir/to welcome : ընդունիլ"
+    },
+    "verbe304": {
+        "oc": "Փնտրել ",
+        "or": "փնտրել ",
+        "fr": "rechercher",
+        "en": "to look for",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe305": {
+        "oc": "պաղեցնել",
+        "or": "պաղեցնել",
+        "fr": "faire refroidir",
+        "en": "to cool something",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe306": {
+        "oc": "սառեցնել",
+        "or": "սառեցնել",
+        "fr": "faire refroidir ",
+        "en": "to cool something ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe307": {
+        "oc": "պաղիլ",
+        "or": "պաղել",
+        "fr": "refroidir",
+        "en": "to cool",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe308": {
+        "oc": "սառիլ",
+        "or": "սառել",
+        "fr": "refroidir ",
+        "en": "to cool ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe309": {
+        "oc": "մերժել",
+        "or": "մերժել",
+        "fr": "refuser",
+        "en": "to refuse",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe310": {
+        "oc": "Նայիլ",
+        "or": "նայել",
+        "fr": "regarder",
+        "en": "to look",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe311": {
+        "oc": "Դիտել",
+        "or": "դիտել",
+        "fr": "regarder ",
+        "en": "to watch",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe312": {
+        "oc": "իշխել",
+        "or": "իշխել",
+        "fr": "reigner",
+        "en": "to reign",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe313": {
+        "oc": "լեցնել",
+        "or": "լրացնել",
+        "fr": "remplir",
+        "en": "to fill in",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe314": {
+        "oc": "հանդիպիլ",
+        "or": "հանդիպել",
+        "fr": "rencontrer",
+        "en": "to meet",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe315": {
+        "oc": "այցելել ",
+        "or": "այցելել ",
+        "fr": "rendre visite",
+        "en": "to come by",
+        "info_oc": "այցելել: rendre visite/to come by. visiter/to visit",
+        "info_or": "այցելել: rendre visite/to come by. visiter/to visit"
+    },
+    "verbe316": {
+        "oc": "նորոգել ",
+        "or": "նորոգել ",
+        "fr": "rénover",
+        "en": "to renovate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe317": {
+        "oc": "թափել",
+        "or": "թափել",
+        "fr": "renverser",
+        "en": "to spill",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe318": {
+        "oc": "թափել ",
+        "or": "թափել ",
+        "fr": "répandre",
+        "en": "to spread",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe319": {
+        "oc": "շտկել",
+        "or": "շտկել",
+        "fr": "réparer",
+        "en": "to repare",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe320": {
+        "oc": "անդրադառնալ",
+        "or": "պատասխանել ",
+        "fr": "répondre ",
+        "en": "to respond",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe321": {
+        "oc": "դիմադրել",
+        "or": "դիմադրել",
+        "fr": "résister",
+        "en": "to resist ",
+        "info_oc": "դիմադրել:résister(s'opposer)/to resist(oppose)",
+        "info_or": "դիմադրել:résister(s'opposer)/to resist(oppose)"
+    },
+    "verbe322": {
+        "oc": "հնչել ",
+        "or": "հնչել ",
+        "fr": "résonner ",
+        "en": "to echo",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe323": {
+        "oc": "հնչել  ",
+        "or": "հնչել  ",
+        "fr": "résonner  ",
+        "en": "to resonate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe324": {
+        "oc": "յարգել",
+        "or": "հարգել",
+        "fr": "respecter",
+        "en": "to respect",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe325": {
+        "oc": "յարգանել",
+        "or": "հարգել ",
+        "fr": "respecter ",
+        "en": "to respect ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe326": {
+        "oc": "նորոգել",
+        "or": "վերականգնել",
+        "fr": "restaurer",
+        "en": "to restore",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe327": {
+        "oc": "Մնալ",
+        "or": "մնալ",
+        "fr": "rester",
+        "en": "to stay",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe328": {
+        "oc": "վերահաստատել",
+        "or": "վերահաստատել",
+        "fr": "rétablir",
+        "en": "to re-establish",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe329": {
+        "oc": "ուշացնել",
+        "or": "ուշացնել",
+        "fr": "retarder",
+        "en": "to retard",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe330": {
+        "oc": "հանել ",
+        "or": "հանել ",
+        "fr": "retirer",
+        "en": "to withdraw",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe331": {
+        "oc": "դարձնել",
+        "or": "վերադառնալ",
+        "fr": "retourner",
+        "en": "to return",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe332": {
+        "oc": "Դառնալ ",
+        "or": "վերադառնալ ",
+        "fr": "retourner ",
+        "en": "to return ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe333": {
+        "oc": "վերադարձնել",
+        "or": "վերադարձնել",
+        "fr": "retourner quelque chose",
+        "en": "to return something",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe334": {
+        "oc": "պակսեցնել",
+        "or": "պակասեցնել",
+        "fr": "retrancher",
+        "en": "to retrench",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe335": {
+        "oc": "յաջողիլ",
+        "or": "հաջողել",
+        "fr": "réussir",
+        "en": "to succeed",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe336": {
+        "oc": "արթնցնել",
+        "or": "արթնցնել",
+        "fr": "réveiller",
+        "en": "to wake up someone",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe337": {
+        "oc": "երազել",
+        "or": "երազել",
+        "fr": "rêver",
+        "en": "to dream",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe338": {
+        "oc": "ծիծաղիլ",
+        "or": "ծիծաղել",
+        "fr": "rire",
+        "en": "to laugh",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe339": {
+        "oc": "տրտնջալ",
+        "or": "տրտնջալ",
+        "fr": "ronchonner",
+        "en": "to grouch",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe340": {
+        "oc": "արիւնիլ",
+        "or": "արյուն թափել",
+        "fr": "saigner",
+        "en": "to bleed",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe341": {
+        "oc": "աղտոտել",
+        "or": "կեղտոտել",
+        "fr": "salir",
+        "en": "to smear",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe342": {
+        "oc": "աղտոտել ",
+        "or": "կեղտոտել ",
+        "fr": "salir ",
+        "en": "to dirty",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe343": {
+        "oc": "բարեւել",
+        "or": "բարեւել",
+        "fr": "saluer",
+        "en": "to greet",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe344": {
+        "oc": "խաղալ ",
+        "or": "խաղալ ",
+        "fr": "s'amuser",
+        "en": "to have fun",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe345": {
+        "oc": "Կոչուիլ",
+        "or": "կոչվել",
+        "fr": "s'appeller",
+        "en": "to be called",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe346": {
+        "oc": "մօտենալ",
+        "or": "մոտենալ",
+        "fr": "s'approcher",
+        "en": "to approach",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe347": {
+        "oc": "Նստիլ",
+        "or": "նստել",
+        "fr": "s'asseoir",
+        "en": "to sit",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe348": {
+        "oc": "ուշանալ ",
+        "or": "ուշանալ ",
+        "fr": "s'attarder",
+        "en": "to linger",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe349": {
+        "oc": "Ցատկել",
+        "or": "ցատկել",
+        "fr": "sauter",
+        "en": "to skip",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe350": {
+        "oc": "Գիտնել",
+        "or": "գիտենալ",
+        "fr": "savoir",
+        "en": "to know",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe351": {
+        "oc": "Գիտեմ",
+        "or": "գիտեմ",
+        "fr": "savoir ",
+        "en": "to know ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe352": {
+        "oc": "վիրաւորուիլ",
+        "or": "վիրավորվել",
+        "fr": "se blesser",
+        "en": "to get hurt",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe353": {
+        "oc": "այրիլ",
+        "or": "այրել ",
+        "fr": "se brûler",
+        "en": "to get burned",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe354": {
+        "oc": "տաքնալ",
+        "or": "տաքանալ",
+        "fr": "se chauffer",
+        "en": "to warm",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe355": {
+        "oc": "Վստահիլ",
+        "or": "վստահել ",
+        "fr": "se confier",
+        "en": "to confide",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe356": {
+        "oc": "աճապարել",
+        "or": "աճապարել",
+        "fr": "se dépêcher",
+        "en": "to hasten",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe357": {
+        "oc": "զուարճանալ",
+        "or": "զվարճանալ",
+        "fr": "se distraire",
+        "en": "to enjoy",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe358": {
+        "oc": "տեղաւորուիլ",
+        "or": "տեղավորվել",
+        "fr": "se garer",
+        "en": "to get parked",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe359": {
+        "oc": "շտապել",
+        "or": "շտապել ",
+        "fr": "se hâter",
+        "en": "to hurry",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe360": {
+        "oc": "ձանձրանալ ",
+        "or": "ձանձրանալ ",
+        "fr": "se lasser",
+        "en": "to get bored ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe361": {
+        "oc": "Ելլալ",
+        "or": "ելնել",
+        "fr": "se lever",
+        "en": "to get up",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe362": {
+        "oc": "Ելլալ ",
+        "or": "վեր կենալ",
+        "fr": "se lever ",
+        "en": "to get up ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe363": {
+        "oc": "ամուսնանալ",
+        "or": "ամուսնանալ",
+        "fr": "se marier",
+        "en": "to get married",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe364": {
+        "oc": "խնդալ ",
+        "or": "ծաղրել ",
+        "fr": "se moquer ",
+        "en": "to mock ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe365": {
+        "oc": "Անցնել",
+        "or": "պատահել",
+        "fr": "se passer",
+        "en": "to happen ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe366": {
+        "oc": "սանտրուիլ",
+        "or": "սանրել",
+        "fr": "se peigner",
+        "en": "to comb",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe367": {
+        "oc": "պատրաստուիլ",
+        "or": "պատրաստվել",
+        "fr": "se préparer",
+        "en": "to get ready",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe368": {
+        "oc": "ներկայանալ",
+        "or": "ներկայանալ",
+        "fr": "se présenter",
+        "en": "to introduce oneself",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe369": {
+        "oc": "հանգչիլ",
+        "or": "հանգստանալ",
+        "fr": "se reposer",
+        "en": "to rest",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe370": {
+        "oc": "առանձնանալ",
+        "or": "առանձնանալ",
+        "fr": "prendre sa retraite",
+        "en": "to retire",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe371": {
+        "oc": "արթննալ",
+        "or": "արթնանալ",
+        "fr": "se réveiller",
+        "en": "to wake up",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe372": {
+        "oc": "աղտոտիլ",
+        "or": "աղտոտել",
+        "fr": "se salir",
+        "en": "to get dirty",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe373": {
+        "oc": "բաժնուիլ",
+        "or": "բաժանվել",
+        "fr": "se séparer",
+        "en": "to break up",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe374": {
+        "oc": "Յիշել",
+        "or": "հիշել",
+        "fr": "se souvenir",
+        "en": "to remember",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe375": {
+        "oc": "Փախչել ",
+        "or": "փախչել ",
+        "fr": "s'échapper",
+        "en": "to escape",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe376": {
+        "oc": "հրապուրել",
+        "or": "հրապուրել",
+        "fr": "séduire",
+        "en": "to seduce",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe377": {
+        "oc": "վեր ելլալ",
+        "or": "բարձրանալ   ",
+        "fr": "s'élever",
+        "en": "to rise",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe378": {
+        "oc": "ջղայնանալ",
+        "or": "ջղայնանալ",
+        "fr": "s'énerver",
+        "en": "to get pissed",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe379": {
+        "oc": "ձանձրանալ",
+        "or": "ձանձրանալ",
+        "fr": "s'ennuyer",
+        "en": "to get bored",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe380": {
+        "oc": "Զգալ",
+        "or": "զգալ",
+        "fr": "se sentir",
+        "en": "to feel",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe381": {
+        "oc": "ծառայել",
+        "or": "ծառայել",
+        "fr": "servir",
+        "en": "to serve",
+        "info_oc": "ծառայել:servir(être utile)/to serve(be useful)",
+        "info_or": "ծառայել:servir(être utile)/to serve(be useful)"
+    },
+    "verbe382": {
+        "oc": "հագուիլ",
+        "or": "հագվնել",
+        "fr": "s'habiller",
+        "en": "to get dressed",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe383": {
+        "oc": "նշանակել",
+        "or": "նշանակել",
+        "fr": "signifier",
+        "en": "to mean",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe384": {
+        "oc": "Բուժել",
+        "or": "բուժել",
+        "fr": "soigner",
+        "en": "to heal",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe385": {
+        "oc": "զարնել ",
+        "or": "զանգել",
+        "fr": "sonner",
+        "en": "to ring",
+        "info_oc": "զարնել :sonner.frapper/to ring. hit",
+        "info_or": "զանգել :sonner.frapper/to ring. hit"
+    },
+    "verbe386": {
+        "oc": "հնչել",
+        "or": "հնչել",
+        "fr": "sonner ",
+        "en": "to ring ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe387": {
+        "oc": "դուրս ելլալ",
+        "or": "դուրս գալ",
+        "fr": "sortir",
+        "en": "to get out",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe388": {
+        "oc": "Փչել",
+        "or": "փչել",
+        "fr": "souffler",
+        "en": "to blow",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe389": {
+        "oc": "թեթեւցնել",
+        "or": "թեթեւացնել",
+        "fr": "soulager",
+        "en": "to relieve",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe390": {
+        "oc": "բարձրացնել",
+        "or": "բարձրացնել",
+        "fr": "soulever",
+        "en": "to raise",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe391": {
+        "oc": "ժպտիլ",
+        "or": "ժպտալ",
+        "fr": "sourire",
+        "en": "to smile",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe392": {
+        "oc": "պակսեցնել ",
+        "or": "պակասեցնել ",
+        "fr": "soustraire",
+        "en": "to substract",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe393": {
+        "oc": "ջատագովել ",
+        "or": "ջատագովել ",
+        "fr": "soutenir",
+        "en": "to support",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe394": {
+        "oc": "ծծել",
+        "or": "ծծել",
+        "fr": "sucer",
+        "en": "to suck",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe395": {
+        "oc": "աղաչել",
+        "or": "աղաչել",
+        "fr": "supplier",
+        "en": "to supplicate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe396": {
+        "oc": "վերապրիլ",
+        "or": "վերապրել",
+        "fr": "survivre",
+        "en": "to survive",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe397": {
+        "oc": "աղտոտել  ",
+        "or": "աղտոտել  ",
+        "fr": "tâcher",
+        "en": "to stain",
+        "info_oc": "աղտոտել  :tâcher(salir)/to stain",
+        "info_or": "աղտոտել  :tâcher(salir)/to stain"
+    },
+    "verbe398": {
+        "oc": "մեղացնել",
+        "or": "գրգռել",
+        "fr": "taquiner",
+        "en": "to tease",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe399": {
+        "oc": "հեռաձայնել",
+        "or": "հեռաձայնել",
+        "fr": "téléphoner",
+        "en": "to phone",
+        "info_oc": "Կանչել: appeler/to call",
+        "info_or": "Կանչել: appeler/to call"
+    },
+    "verbe400": {
+        "oc": "հեռաձայնել ",
+        "or": "հեռաձայնել ",
+        "fr": "téléphoner ",
+        "en": "to call ",
+        "info_oc": "Կանչել: appeler/to call",
+        "info_or": "Կանչել: appeler/to call"
+    },
+    "verbe401": {
+        "oc": "հեռախօսել",
+        "or": "հեռախոսել",
+        "fr": "téléphoner  ",
+        "en": "to call  ",
+        "info_oc": "Կանչել: appeler/to call",
+        "info_or": "Կանչել: appeler/to call"
+    },
+    "verbe402": {
+        "oc": "Վկայել",
+        "or": "վկայել",
+        "fr": "témoigner",
+        "en": "to testimonate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe403": {
+        "oc": "Բռնել ",
+        "or": "բռնել ",
+        "fr": "tenir",
+        "en": "to hold",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe404": {
+        "oc": "վերջացնել ",
+        "or": "վերջացնել ",
+        "fr": "terminer",
+        "en": "to terminate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe405": {
+        "oc": "Քաշել",
+        "or": "քաշել",
+        "fr": "tirer",
+        "en": "to pull",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe406": {
+        "oc": "Քաշել ",
+        "or": "քաշել ",
+        "fr": "traîner (déplacer)",
+        "en": "to drag",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe407": {
+        "oc": "իյնալ",
+        "or": "ընկնել",
+        "fr": "tomber",
+        "en": "to fall",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe408": {
+        "oc": "տեղալ",
+        "or": "տեղալ",
+        "fr": "tomber ",
+        "en": "to fall ",
+        "info_oc": "tomber (du ciel)/to fall(from the sky)",
+        "info_or": "tomber (du ciel)/to fall(from the sky)"
+    },
+    "verbe409": {
+        "oc": "դառնալ",
+        "or": "դառնալ",
+        "fr": "tourner",
+        "en": "to turn",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe410": {
+        "oc": "դառնալ ",
+        "or": "դառնալ ",
+        "fr": "devenir ",
+        "en": "to become ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe411": {
+        "oc": "թարգմանել",
+        "or": "թարգմանել",
+        "fr": "traduire",
+        "en": "to translate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe412": {
+        "oc": "մատնել",
+        "or": "մատնել",
+        "fr": "trahir ",
+        "en": "to betray ",
+        "info_oc": "մատնել:trahir(dénoncer)/to betray(denounce)",
+        "info_or": "մատնել:trahir(dénoncer)/to betray(denounce)"
+    },
+    "verbe413": {
+        "oc": "դաւաճանել",
+        "or": "դավաճանել",
+        "fr": "trahir",
+        "en": "to betray",
+        "info_oc": "դաւաճանել:trahir(la patrie)/to betray(the country)",
+        "info_or": "դավաճանել:trahir(la patrie)/to betray(the country)"
+    },
+    "verbe414": {
+        "oc": "տեղափոխել ",
+        "or": "տեղափոխել ",
+        "fr": "transférer",
+        "en": "to transfer",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe415": {
+        "oc": "Փոխադրել",
+        "or": "փոխադրել",
+        "fr": "transporter",
+        "en": "to transport",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe416": {
+        "oc": "գործել",
+        "or": "գործել",
+        "fr": "travailler",
+        "en": "to work",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe417": {
+        "oc": "աշխատիլ",
+        "or": "աշխատել",
+        "fr": "travailler ",
+        "en": "to work ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe418": {
+        "oc": "անցնիլ ",
+        "or": "անցնել ",
+        "fr": "traverser",
+        "en": "to cross",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe419": {
+        "oc": "անցնիլ  ",
+        "or": "անցնել  ",
+        "fr": "traverser ",
+        "en": "to pass through",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe420": {
+        "oc": "մահանալ",
+        "or": "մահանալ",
+        "fr": "trépasser",
+        "en": "to pass away",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe421": {
+        "oc": "խաբել",
+        "or": "խաբել",
+        "fr": "tricher",
+        "en": "to cheat",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe422": {
+        "oc": "հիւսել ",
+        "or": "խոժոռել",
+        "fr": "tricoter",
+        "en": "to knit",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe423": {
+        "oc": "հիւսել",
+        "or": "հյուսել",
+        "fr": "tisser",
+        "en": "to weave",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe424": {
+        "oc": "կարգաւորել ",
+        "or": "կարգավորել ",
+        "fr": "trier",
+        "en": "to sort",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe425": {
+        "oc": "խաբել ",
+        "or": "խաբել ",
+        "fr": "tromper",
+        "en": "to deceive",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe426": {
+        "oc": "Գտնել",
+        "or": "գտնել",
+        "fr": "trouver",
+        "en": "to find",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe427": {
+        "oc": "գտնալ",
+        "or": "գտնել ",
+        "fr": "trouver ",
+        "en": "to find ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe428": {
+        "oc": "Մեռցնել",
+        "or": "մեռցնել",
+        "fr": "tuer ",
+        "en": "to kill ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe429": {
+        "oc": "միացնել",
+        "or": "միացնել",
+        "fr": "unir",
+        "en": "to unite",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe430": {
+        "oc": "միաւորել",
+        "or": "միավորել",
+        "fr": "unir ",
+        "en": "to unite ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe431": {
+        "oc": "միզել",
+        "or": "միզել",
+        "fr": "uriner",
+        "en": "to urinate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe432": {
+        "oc": "յաղթել",
+        "or": "հաղթել",
+        "fr": "vaincre",
+        "en": "to defeat",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe433": {
+        "oc": "Ծախել",
+        "or": "ծախել",
+        "fr": "vendre",
+        "en": "to sell",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe434": {
+        "oc": "Գալ",
+        "or": "գալ",
+        "fr": "venir",
+        "en": "to come",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe435": {
+        "oc": "քննել ",
+        "or": "քննել ",
+        "fr": "vérifier ",
+        "en": "to check ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe436": {
+        "oc": "դատարկել",
+        "or": "դատարկել",
+        "fr": "vider",
+        "en": "to empty",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe437": {
+        "oc": "աղծել",
+        "or": "աղծել",
+        "fr": "violer",
+        "en": "to rape",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe438": {
+        "oc": "դեմ գործել",
+        "or": "դեմ գործել",
+        "fr": "violer ",
+        "en": "to violate",
+        "info_oc": "դեմ գործել:violer(loi)/to violate(law)",
+        "info_or": "դեմ գործել:violer(loi)/to violate(law)"
+    },
+    "verbe439": {
+        "oc": "այցելել",
+        "or": "այցելել",
+        "fr": "visiter",
+        "en": "to visit",
+        "info_oc": "այցելել: rendre visite/to come by. visiter/to visit",
+        "info_or": "այցելել: rendre visite/to come by. visiter/to visit"
+    },
+    "verbe440": {
+        "oc": "Ապրիլ",
+        "or": "ապրել",
+        "fr": "vivre",
+        "en": "to live",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe441": {
+        "oc": "Տեսնել",
+        "or": "տեսնել",
+        "fr": "voir",
+        "en": "to see",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe442": {
+        "oc": "թռչիլ",
+        "or": "թռչել",
+        "fr": "voler",
+        "en": "to fly",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe443": {
+        "oc": "գողնալ",
+        "or": "գողանալ",
+        "fr": "voler ",
+        "en": "to steal",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe444": {
+        "oc": "կերածը փսխել",
+        "or": "ործկալ",
+        "fr": "vomir",
+        "en": "to vomit",
+        "info_oc": "կերածը պսխել:vomir(rejeter la nourriture)/to vomit",
+        "info_or": "կերածը պսխել:vomir(rejeter la nourriture)/to vomit"
+    },
+    "verbe445": {
+        "oc": "կերածը փսխել ",
+        "or": "կերածը փսխել",
+        "fr": "vomir ",
+        "en": "to throw up",
+        "info_oc": "կերածը պսխել:vomir(rejeter la nourriture)/to vomit",
+        "info_or": "կերածը պսխել:vomir(rejeter la nourriture)/to vomit"
+    },
+    "verbe446": {
+        "oc": "քուէարկել",
+        "or": "քվեարկել",
+        "fr": "voter",
+        "en": "to vote",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe447": {
+        "oc": "ուզել",
+        "or": "ուզել",
+        "fr": "vouloir",
+        "en": "to want",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe448": {
+        "oc": "ճամբորդել",
+        "or": "ճամփորդել",
+        "fr": "voyager",
+        "en": "to travel",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe449": {
+        "oc": "թքնել",
+        "or": "թքել",
+        "fr": "cracher",
+        "en": "to spit",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe450": {
+        "oc": "խօսիլ",
+        "or": "խոսել",
+        "fr": "parler",
+        "en": "to speak",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe451": {
+        "oc": "լուալ",
+        "or": "լվանալ",
+        "fr": "laver ",
+        "en": "to wash ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe452": {
+        "oc": "լուալ",
+        "or": "լվալ",
+        "fr": "laver",
+        "en": "to wash",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe453": {
+        "oc": "լուացուիլ",
+        "or": "լվացվել",
+        "fr": "se laver",
+        "en": "to bath",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe454": {
+        "oc": "լուացուիլ ",
+        "or": "լվացվել ",
+        "fr": "se laver ",
+        "en": "to wash up",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe455": {
+        "oc": "ձգել",
+        "or": "թողնել",
+        "fr": "laisser ",
+        "en": "to let ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe456": {
+        "oc": "նեղուիլ",
+        "or": "ձանձրացնել",
+        "fr": "ennuyer",
+        "en": "to bore",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe457": {
+        "oc": "թողուլ ",
+        "or": "թույլատրել",
+        "fr": "permettre ",
+        "en": "to let",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe458": {
+        "oc": "կենալ ",
+        "or": "կանգ առնել",
+        "fr": "s'arrêter",
+        "en": "to stop oneself",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe459": {
+        "oc": "արժել ",
+        "or": "արժել ",
+        "fr": "valoir",
+        "en": "to worth",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe460": {
+        "oc": "արժել  ",
+        "or": "արժենալ",
+        "fr": "valoir ",
+        "en": "to worth ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe461": {
+        "oc": "կենալ",
+        "or": "մնալ ",
+        "fr": "rester ",
+        "en": "to remain",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe462": {
+        "oc": "սիրահարուիլ",
+        "or": "սիրահարվել",
+        "fr": "tomber amoureux",
+        "en": "to fall in love",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe463": {
+        "oc": "մնանիլ",
+        "or": "նմանվել",
+        "fr": "ressembler",
+        "en": "to look like",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe464": {
+        "oc": "սիրաբանիլ",
+        "or": "սիրաբանել",
+        "fr": "faire l'amour ",
+        "en": "to make love ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe465": {
+        "oc": "փրկել",
+        "or": "փրկել",
+        "fr": "sauver",
+        "en": "to save",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe466": {
+        "oc": "կերցնել",
+        "or": "ուտեցնել",
+        "fr": "faire manger",
+        "en": "to make eat",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe467": {
+        "oc": "կերակրել",
+        "or": "կերակրել",
+        "fr": "nourrir",
+        "en": "to feed",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe468": {
+        "oc": "լալ ",
+        "or": "լալ ",
+        "fr": "pleurer ",
+        "en": "to weep",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe469": {
+        "oc": "ըլլալ",
+        "or": "լինել",
+        "fr": "être ",
+        "en": "to be ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe470": {
+        "oc": "նորէն գալ",
+        "or": "ետ գալ",
+        "fr": "revenir",
+        "en": "to come back",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe471": {
+        "oc": "ամբողջացնել",
+        "or": "ամբողջացնել",
+        "fr": "compléter ",
+        "en": "to fill in ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe472": {
+        "oc": "պատասխանել",
+        "or": "պատասխանել",
+        "fr": "répondre",
+        "en": "to reply",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe473": {
+        "oc": "պատասխանել ",
+        "or": "պատասխանել ",
+        "fr": "répondre ",
+        "en": "to answer",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe474": {
+        "oc": "չորնալ",
+        "or": "չորնալ",
+        "fr": "sécher",
+        "en": "to dry",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe475": {
+        "oc": "չորացնել",
+        "or": "չորացնել",
+        "fr": "faire sécher",
+        "en": "to dry ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe476": {
+        "oc": "թափիլ",
+        "or": "թափվել",
+        "fr": "tomber  ",
+        "en": "to fall  ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe477": {
+        "oc": "սահիլ",
+        "or": "սայթաքել",
+        "fr": "glisser",
+        "en": "to slip",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe478": {
+        "oc": "ցնցել",
+        "or": "ցնցել",
+        "fr": "secouer",
+        "en": "to shake",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe479": {
+        "oc": "աճապարել ",
+        "or": "աճապարել ",
+        "fr": "se précipiter",
+        "en": "to hurry up",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe480": {
+        "oc": "աճապարել  ",
+        "or": "աճապարել  ",
+        "fr": "faire vite",
+        "en": "to hurry up ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe481": {
+        "oc": "ախորժել",
+        "or": "ախորժել",
+        "fr": "apprécier",
+        "en": "to enjoy ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe482": {
+        "oc": "սաւառնիլ",
+        "or": "սավառնել",
+        "fr": "voler  ",
+        "en": "to fly ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe483": {
+        "oc": "ընդունիլ",
+        "or": "ընդունել",
+        "fr": "accepter",
+        "en": "to agree  ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe484": {
+        "oc": "վարձել",
+        "or": "վարձել",
+        "fr": "louer",
+        "en": "to rent",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe485": {
+        "oc": "պարտ տալ",
+        "or": "պարտ տալ",
+        "fr": "louer ",
+        "en": "to loan",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe486": {
+        "oc": "շնչել",
+        "or": "շնչել",
+        "fr": "respirer",
+        "en": "to breath",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe487": {
+        "oc": "շրջապատել",
+        "or": "շրջապատել",
+        "fr": "entourer",
+        "en": "to circle",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe488": {
+        "oc": "եռացնել",
+        "or": "եռացնել",
+        "fr": "faire bouillir",
+        "en": "to boil",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe489": {
+        "oc": "եռալ",
+        "or": "եռալ",
+        "fr": "bouillir",
+        "en": "to boil ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe490": {
+        "oc": "զարմանալ",
+        "or": "զարմանալ",
+        "fr": "s'étonner",
+        "en": "to be surprised",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe491": {
+        "oc": "զարմացնել",
+        "or": "զարմացնել",
+        "fr": "étonner",
+        "en": "to surprise",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe492": {
+        "oc": "սառեցնել",
+        "or": "սառեցնել",
+        "fr": "congeler",
+        "en": "to freeze",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe493": {
+        "oc": "արտադրել",
+        "or": "արտադրել",
+        "fr": "produire",
+        "en": "to produce",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe494": {
+        "oc": "հասնիլ",
+        "or": "հասնել",
+        "fr": "arriver",
+        "en": "to come ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe495": {
+        "oc": "հասնիլ ",
+        "or": "հասնել ",
+        "fr": "arriver ",
+        "en": "to arrive",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe496": {
+        "oc": "հեծանիւ նստիլ",
+        "or": "հեծանիվով գնալ",
+        "fr": "faire du vélo",
+        "en": "to bicycle",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe497": {
+        "oc": "հեծանիւով գնալ",
+        "or": "հեծանիվով գնալ ",
+        "fr": "faire du vélo ",
+        "en": "to bicycle ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe498": {
+        "oc": "ձի նստիլ",
+        "or": "ձի նստել",
+        "fr": "faire du cheval",
+        "en": "to mount ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe499": {
+        "oc": "փորագրել",
+        "or": "փորագրել",
+        "fr": "graver",
+        "en": "to engrave",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe500": {
+        "oc": "քանդակել",
+        "or": "քանդակել",
+        "fr": "sculpter",
+        "en": "to sculpture",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe501": {
+        "oc": "քանդակել ",
+        "or": "քանդակել ",
+        "fr": "tailler",
+        "en": "to carve",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe502": {
+        "oc": "զբաղիլ",
+        "or": "զբաղվել",
+        "fr": "s'occuper",
+        "en": "to busy oneself",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe503": {
+        "oc": "վնասել",
+        "or": "փչացնել",
+        "fr": "abîmer",
+        "en": "to spoil  ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe504": {
+        "oc": "ծննդաբերել",
+        "or": "ծննդաբերել",
+        "fr": "accoucher",
+        "en": "to give birth",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe505": {
+        "oc": "ծննդաբերել ",
+        "or": "ծնել",
+        "fr": "accoucher ",
+        "en": "to birth",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe506": {
+        "oc": "մեծնել",
+        "or": "մեծացնել",
+        "fr": "agrandir",
+        "en": "to enlarge",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe507": {
+        "oc": "ծանուցանել",
+        "or": "հայտնել ",
+        "fr": "annoncer",
+        "en": "to announce",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe508": {
+        "oc": "երեւիլ ",
+        "or": "երևալ",
+        "fr": "apparaître",
+        "en": "to appear",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe509": {
+        "oc": "յառաջանալ",
+        "or": "առաջանալ",
+        "fr": "avancer",
+        "en": "to move foward",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe510": {
+        "oc": "խոստովանիլ",
+        "or": "խոստովանել",
+        "fr": "avouer",
+        "en": "to confess",
+        "info_oc": "(un délit)/(a crime)",
+        "info_or": "(un délit)/(a crime)"
+    },
+    "verbe511": {
+        "oc": "յօրանջել",
+        "or": "հորանջել",
+        "fr": "bailler",
+        "en": "to yawn",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe512": {
+        "oc": "մկրտել",
+        "or": "մկրտել",
+        "fr": "baptiser",
+        "en": "to baptize",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe513": {
+        "oc": "ծեծել",
+        "or": "ծեծել",
+        "fr": "battre ",
+        "en": "to strike",
+        "info_oc": "(le fer)/(iron)",
+        "info_or": "(le fer)/(iron)"
+    },
+    "verbe514": {
+        "oc": "շատախօսել",
+        "or": "շատախոսել",
+        "fr": "bavarder",
+        "en": "to chat",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe515": {
+        "oc": "օրօրել",
+        "or": "օրորել",
+        "fr": "bercer",
+        "en": "to rock",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe516": {
+        "oc": "ցանել",
+        "or": "ցանել",
+        "fr": "semer",
+        "en": "to sow",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe517": {
+        "oc": "հասուննալ",
+        "or": "հասունանալ",
+        "fr": "mûrir",
+        "en": "to mature",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe518": {
+        "oc": "պառկիլ",
+        "or": "պառկել",
+        "fr": "s'allonger",
+        "en": "to couch",
+        "info_oc": "s'allonger (par terre)/to couch",
+        "info_or": ""
+    },
+    "verbe519": {
+        "oc": "հասուննալ ",
+        "or": "հասունանալ ",
+        "fr": "mûrir ",
+        "en": "to ripen",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe520": {
+        "oc": "ծերանալ",
+        "or": "ծերանալ",
+        "fr": "vieillir",
+        "en": "to age",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe521": {
+        "oc": "հետեւիլ",
+        "or": "հետեւել",
+        "fr": "suivre",
+        "en": "to follow",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe522": {
+        "oc": "ստորագրել",
+        "or": "ստորագրել",
+        "fr": "signer",
+        "en": "to sign",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe523": {
+        "oc": "աւելցնել",
+        "or": "ավելացնել",
+        "fr": "ajouter",
+        "en": "to add",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe524": {
+        "oc": "վերադրել",
+        "or": "վերադրել",
+        "fr": "ajouter ",
+        "en": "to add ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe525": {
+        "oc": "աւելցնել ",
+        "or": "ավելացնել ",
+        "fr": "augmenter",
+        "en": "to increase",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe526": {
+        "oc": "պզտիկցնել",
+        "or": "նվազեցնել",
+        "fr": "réduire",
+        "en": "to reduce",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe527": {
+        "oc": "գիրնալ",
+        "or": "գիրանալ",
+        "fr": "grossir",
+        "en": "to get fatter",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe528": {
+        "oc": "մեծցնել",
+        "or": "մեծացնել ",
+        "fr": "grossir ",
+        "en": "to magnify",
+        "info_oc": "(zoomer. faire grossir/to zoom. to get bigger)",
+        "info_or": "(zoomer. faire grossir/to zoom. to get bigger)"
+    },
+    "verbe529": {
+        "oc": "գիրնալ",
+        "or": "գիրնալ",
+        "fr": "grossir  ",
+        "en": "to become fat",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe530": {
+        "oc": "խոշորցնել",
+        "or": "խոշորացնել",
+        "fr": "faire grossir",
+        "en": "to magnify ",
+        "info_oc": "(zoomer. faire grossir/to zoom. to get bigger)",
+        "info_or": "(zoomer. faire grossir/to zoom. to get bigger)"
+    },
+    "verbe531": {
+        "oc": "հեռանալ",
+        "or": "հեռանալ",
+        "fr": "s'éloigner",
+        "en": "to go away",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe532": {
+        "oc": "հեռանալ ",
+        "or": "հեռանալ ",
+        "fr": "s'éloigner ",
+        "en": "to get far from",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe533": {
+        "oc": "ձուկ վորսալ",
+        "or": "ձուկ վորսալ",
+        "fr": "pêcher",
+        "en": "to fish",
+        "info_oc": "ձուկ վորսալ (chasser (pêcher) le poisson/to fish)",
+        "info_or": "ձուկ վորսալ (chasser (pêcher) le poisson/to fish)"
+    },
+    "verbe534": {
+        "oc": "վորսալ",
+        "or": "վորսալ",
+        "fr": "chasser",
+        "en": "to hunt",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe535": {
+        "oc": "հոսիլ",
+        "or": "հոսել",
+        "fr": "couler",
+        "en": "to flow",
+        "info_oc": "couler (cours d'eau)/to flow (water current)",
+        "info_or": "couler (cours d'eau)/to flow (water current)"
+    },
+    "verbe536": {
+        "oc": "թափիլ ",
+        "or": "թափել  ",
+        "fr": "verser",
+        "en": "to shed",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe537": {
+        "oc": "ապսպրել",
+        "or": "ապսպրել",
+        "fr": "commander",
+        "en": "to order ",
+        "info_oc": "faire une commande/to order (buy) something",
+        "info_or": "faire une commande/to order (buy) something"
+    },
+    "verbe538": {
+        "oc": "բաժանել",
+        "or": "բաժանել",
+        "fr": "diviser",
+        "en": "to divide",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe539": {
+        "oc": "բաշխել",
+        "or": "բաշխել",
+        "fr": "partager",
+        "en": "to share",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe540": {
+        "oc": "բաժնել",
+        "or": "բաժնել",
+        "fr": "partager ",
+        "en": "to share ",
+        "info_oc": "diviser/divide",
+        "info_or": "diviser/divide"
+    },
+    "verbe541": {
+        "oc": "հատանել",
+        "or": "կտրել ",
+        "fr": "couper ",
+        "en": "to cut ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe542": {
+        "oc": "ստուգել",
+        "or": "ստուգել",
+        "fr": "vérifier",
+        "en": "to check",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe543": {
+        "oc": "նուագել",
+        "or": "նվագել",
+        "fr": "jouer ",
+        "en": "to play ",
+        "info_oc": "(musique/music)",
+        "info_or": "(musique/music)"
+    },
+    "verbe544": {
+        "oc": "ըմպել",
+        "or": "խմել ",
+        "fr": "boire ",
+        "en": "to drink ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe545": {
+        "oc": "ստիպել",
+        "or": "ստիպել",
+        "fr": "obliger",
+        "en": "to force",
+        "info_oc": "être obligé de/ obliger quelqu'un/to be forced to/ to force someone to",
+        "info_or": "être obligé de/ obliger quelqu'un/to be forced to/ to force someone to"
+    },
+    "verbe546": {
+        "oc": "սթափիլ",
+        "or": "զարթնել",
+        "fr": "se réveiller ",
+        "en": "to wake up ",
+        "info_oc": "(reprendre conscience)/to regain consciousness",
+        "info_or": "(reprendre conscience)/to regain consciousness"
+    },
+    "verbe547": {
+        "oc": "ճամբայ ելլել",
+        "or": "",
+        "fr": "prendre la route",
+        "en": "to take the road",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe548": {
+        "oc": "վստայ ըլլալ",
+        "or": "վստահ լինել",
+        "fr": "être sûr",
+        "en": "to be sure",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe549": {
+        "oc": "կատակ ընել",
+        "or": "կատակ անել",
+        "fr": "faire une blague",
+        "en": "to make a joke",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe550": {
+        "oc": "նուիրել",
+        "or": "նվիրել",
+        "fr": "offrir",
+        "en": "to offer",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe551": {
+        "oc": "անտարբեր մնալ",
+        "or": "անտարբեր մնալ",
+        "fr": "ignorer",
+        "en": "to ignore",
+        "info_oc": "(rester indifférent/to remain indifferent)",
+        "info_or": "(rester indifférent/to remain indifferent)"
+    },
+    "verbe552": {
+        "oc": "Թողուլ ",
+        "or": "թույլ տալ ",
+        "fr": "laisser",
+        "en": "to let  ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe553": {
+        "oc": "փորձել ",
+        "or": "փորձել ",
+        "fr": "tester",
+        "en": "to test",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe554": {
+        "oc": "սփռել",
+        "or": "սփռել",
+        "fr": "disperser",
+        "en": "to disperse",
+        "info_oc": "սփյոռք : diaspora",
+        "info_or": "սփիւռք : diaspora"
+    },
+    "verbe555": {
+        "oc": "սփռուիլ",
+        "or": "սփռվել",
+        "fr": "se disperser",
+        "en": "to outspread",
+        "info_oc": "սփյոռք : diaspora",
+        "info_or": "սփիւռք : diaspora,սփյոռք : diaspora,սփիւռք : diaspora"
+    },
+    "verbe556": {
+        "oc": "գերազանցել",
+        "or": "գերազանցել",
+        "fr": "surpasser",
+        "en": "to surpass",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe557": {
+        "oc": "նախանձել",
+        "or": "նախանձել",
+        "fr": "jalouser",
+        "en": "to envy ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe558": {
+        "oc": "նախանձել ",
+        "or": "նախանձել ",
+        "fr": "envier",
+        "en": "to envy",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe559": {
+        "oc": "խանդել",
+        "or": "խանդել",
+        "fr": "jalouser (en amour)",
+        "en": "to be jealous (in love)",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe560": {
+        "oc": "շարել",
+        "or": "շարել",
+        "fr": "ranger",
+        "en": "to put in order",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe561": {
+        "oc": "թառանիլ",
+        "or": "թառանել",
+        "fr": "faner",
+        "en": "to fade",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe562": {
+        "oc": "զարդարել",
+        "or": "զարդարել",
+        "fr": "orner",
+        "en": "to decorate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe563": {
+        "oc": "զարդարել ",
+        "or": "զարդարել ",
+        "fr": "décorer",
+        "en": "to decorate ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe564": {
+        "oc": "բողոքել",
+        "or": "բողոքել",
+        "fr": "protester",
+        "en": "to protest",
+        "info_oc": "բողոքական : protestant",
+        "info_or": ""
+    },
+    "verbe565": {
+        "oc": "ժամադրուիլ",
+        "or": "ժամադրվել",
+        "fr": "se donner rendez-vous",
+        "en": "to make an appointment",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe566": {
+        "oc": "զայրանալ",
+        "or": "զայրանալ",
+        "fr": "se mettre en colère",
+        "en": "to get angry",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe567": {
+        "oc": "սպառիլ",
+        "or": "սպառել",
+        "fr": "épuiser (consommer)",
+        "en": "to deplet",
+        "info_oc": "գիրգեր սպառած են : les livres sont épuisés/books' stocks are depleted",
+        "info_or": ""
+    },
+    "verbe568": {
+        "oc": "քարանալ",
+        "or": "քարանալ",
+        "fr": "pétrifier",
+        "en": "to petrify",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe569": {
+        "oc": "մեկնիլ",
+        "or": "մեկնել",
+        "fr": "partir ",
+        "en": "to depart",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe570": {
+        "oc": "լաւանալ",
+        "or": "լավանալ",
+        "fr": "aller mieux",
+        "en": "to get better",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe571": {
+        "oc": "մոլեգնիլ",
+        "or": "մոլեգնել",
+        "fr": "enrager",
+        "en": "to rage",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe572": {
+        "oc": "հոտ առնել",
+        "or": "հոտ առնել",
+        "fr": "sentir (respirer)",
+        "en": "to smell",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe573": {
+        "oc": "հոտիլ",
+        "or": "հոտել",
+        "fr": "sentir (odeur)",
+        "en": "to smell ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe574": {
+        "oc": "հոտ զգալ",
+        "or": "հոտ զգալ",
+        "fr": "sentir (mauvais)",
+        "en": "to smell bad",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe575": {
+        "oc": "հոտ զգալ ",
+        "or": "հոտ զգալ ",
+        "fr": "puer",
+        "en": "to stink",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe576": {
+        "oc": "մեռելի պէս ընել",
+        "or": "մեռելի պես անել",
+        "fr": "faire le mort",
+        "en": "to play dead",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe577": {
+        "oc": "բարկանալ",
+        "or": "բարկանալ",
+        "fr": "gronder",
+        "en": "to scold",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe578": {
+        "oc": "թրջուիլ",
+        "or": "թրջվել",
+        "fr": "se tremper",
+        "en": "to get soaked",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe579": {
+        "oc": "թրջուիլ ",
+        "or": "թրջվել ",
+        "fr": "se mouiller",
+        "en": "to get wet",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe580": {
+        "oc": "թրջել",
+        "or": "թրջել",
+        "fr": "tremper",
+        "en": "to soak",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe581": {
+        "oc": "թրջել ",
+        "or": "թրջել ",
+        "fr": "mouiller",
+        "en": "to wet ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe582": {
+        "oc": "ցոյց տալ",
+        "or": "ցույց տալ ",
+        "fr": "montrer ",
+        "en": "to show ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe583": {
+        "oc": "ցցնել",
+        "or": "ցույց տալ  ",
+        "fr": "montrer  ",
+        "en": "to show  ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe584": {
+        "oc": "վեր ելլել",
+        "or": "վեր ելլէլ",
+        "fr": "monter ",
+        "en": "to go up ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe585": {
+        "oc": "բարձրացնել",
+        "or": "բարձրացնել",
+        "fr": "faire monter",
+        "en": "to make go up",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe586": {
+        "oc": "վեր ելլալ",
+        "or": "վեր ելլել ",
+        "fr": "monter  ",
+        "en": "to go up  ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe587": {
+        "oc": "իրաուունք ունենալ",
+        "or": "իրավունք ունենալ",
+        "fr": "avoir droit",
+        "en": "to have the right",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe588": {
+        "oc": "խնդալ",
+        "or": "խնդալ",
+        "fr": "rire ",
+        "en": "to laugh ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe589": {
+        "oc": "խոստանալ",
+        "or": "խոստանալ",
+        "fr": "promettre",
+        "en": "to promise",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe590": {
+        "oc": "ծաղրել",
+        "or": "ծաղրել",
+        "fr": "se moquer",
+        "en": "to mock",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe591": {
+        "oc": "անդել",
+        "or": "անդել",
+        "fr": "insister",
+        "en": "to insist",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe592": {
+        "oc": "բացատրել",
+        "or": "բացատրել",
+        "fr": "expliquer",
+        "en": "to explain",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe593": {
+        "oc": "մրցիլ",
+        "or": "մրցել",
+        "fr": "faire compétition",
+        "en": "to compete",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe594": {
+        "oc": "յանձն առնել",
+        "or": "ընդունել ",
+        "fr": "accepter  ",
+        "en": "to agree   ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe595": {
+        "oc": "ծածկուիլ",
+        "or": "ծածկվել",
+        "fr": "se cacher",
+        "en": "to hide oneself",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe596": {
+        "oc": "ապշել",
+        "or": "ապշել",
+        "fr": "être stupéfier",
+        "en": "to get stupefied",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe597": {
+        "oc": "ապշեցնել",
+        "or": "ապշեցնել",
+        "fr": "stupéfier",
+        "en": "to stupefy",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe598": {
+        "oc": "աղմկել",
+        "or": "աղմկել",
+        "fr": "faire du bruit",
+        "en": "to make noise",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe599": {
+        "oc": "ուրախանալ",
+        "or": "ուրախանալ",
+        "fr": "se réjouir",
+        "en": "to rejoice",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe600": {
+        "oc": "հագնիլ",
+        "or": "հագնել",
+        "fr": "s'habiller ",
+        "en": "to dress oneself",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe601": {
+        "oc": "սպանել",
+        "or": "սպանել",
+        "fr": "tuer",
+        "en": "to kill",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe602": {
+        "oc": "մշակել",
+        "or": "մշակել",
+        "fr": "récolter",
+        "en": "to harvest",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe603": {
+        "oc": "մշակել ",
+        "or": "մշակել ",
+        "fr": "cultiver",
+        "en": "to grow ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe604": {
+        "oc": "օգտագործել",
+        "or": "օգտագործել",
+        "fr": "utiliser",
+        "en": "to use",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe605": {
+        "oc": "գործածել ",
+        "or": "գործածել ",
+        "fr": "utiliser ",
+        "en": "to utilize",
+        "info_oc": "utiliser (manipuler) / to use (manipulate)",
+        "info_or": ""
+    },
+    "verbe606": {
+        "oc": "գործածել",
+        "or": "գործածել",
+        "fr": "manipuler",
+        "en": "to manipulate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe607": {
+        "oc": "ջանալ ",
+        "or": "ջանալ ",
+        "fr": "faire des efforts",
+        "en": "to strive",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe608": {
+        "oc": "ջանալ",
+        "or": "ջանալ",
+        "fr": "s'efforcer",
+        "en": "to endeavour",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe609": {
+        "oc": "կոտրել",
+        "or": "կոտրել",
+        "fr": "casser",
+        "en": "to break",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe610": {
+        "oc": "կղեուել",
+        "or": "կղեւել",
+        "fr": "éplucher ",
+        "en": "to peel ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe611": {
+        "oc": "կլպել",
+        "or": "կլպել",
+        "fr": "éplucher",
+        "en": "to peel",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe612": {
+        "oc": "տապկել",
+        "or": "տապակել",
+        "fr": "frire",
+        "en": "to fry",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe613": {
+        "oc": "թոյլնալ",
+        "or": "թուլանալ",
+        "fr": "se relâcher",
+        "en": "to loosen",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe614": {
+        "oc": "զգուշանալ",
+        "or": "զգուշանալ",
+        "fr": "faire attention",
+        "en": "to beware",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe615": {
+        "oc": "ցանկալ",
+        "or": "ցանկանալ",
+        "fr": "désirer ",
+        "en": "to desire ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe616": {
+        "oc": "ըղձալ",
+        "or": "ցանկանալ ",
+        "fr": "désirer  ",
+        "en": "to desire  ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe617": {
+        "oc": "ցանկալ",
+        "or": "ցանկանալ  ",
+        "fr": "souhaiter",
+        "en": "to wish",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe618": {
+        "oc": "մաղթել",
+        "or": "մաղթել",
+        "fr": "souhaiter (voeux)",
+        "en": "to wish (vows)",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe619": {
+        "oc": "ըմբռնել",
+        "or": "ըմբռնել",
+        "fr": "comprendre ",
+        "en": "to understand",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe620": {
+        "oc": "ազգայնացնել",
+        "or": "ազգայնացնել",
+        "fr": "nationaliser",
+        "en": "nationalize",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe621": {
+        "oc": "ածիլուիլ",
+        "or": "սափրվել",
+        "fr": "se raser",
+        "en": "to shave oneself",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe622": {
+        "oc": "ածիլել",
+        "or": "սափրել",
+        "fr": "raser",
+        "en": "to shave",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe623": {
+        "oc": "ակնարկել",
+        "or": "ակնարկել",
+        "fr": "envisager",
+        "en": "to consider",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe624": {
+        "oc": "ակօսել",
+        "or": "ակոսել",
+        "fr": "silloner",
+        "en": "to furrow",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe625": {
+        "oc": "աղքատանալ",
+        "or": "աղքատանալ",
+        "fr": "s'appauvrir",
+        "en": "to become poorer",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe626": {
+        "oc": "դիակիզել",
+        "or": "դիակիզել",
+        "fr": "incinérer",
+        "en": "to cremate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe627": {
+        "oc": "խայտառակել",
+        "or": "խայտառակել",
+        "fr": "apporter la honte",
+        "en": "to bring shame",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe628": {
+        "oc": "ամչցնել",
+        "or": "ամաչեցնել",
+        "fr": "faire honte",
+        "en": "to put to shame",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe629": {
+        "oc": "անգիտանալ",
+        "or": "անգիտանալ",
+        "fr": "ignorer ",
+        "en": "to ignore ",
+        "info_oc": "(méconnaître/not to know)",
+        "info_or": ""
+    },
+    "verbe630": {
+        "oc": "անիծել",
+        "or": "անիծել",
+        "fr": "maudire",
+        "en": "to curse",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe631": {
+        "oc": "անձրևել",
+        "or": "անձրևել",
+        "fr": "pleuvoir",
+        "en": "to rain",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe632": {
+        "oc": "անուանակոչել",
+        "or": "կոչել",
+        "fr": "nommer",
+        "en": "to name",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe633": {
+        "oc": "անպատուել",
+        "or": "անպատվել",
+        "fr": "déshonorer",
+        "en": "to dishonor",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe634": {
+        "oc": "անուշցնել",
+        "or": "կակղել",
+        "fr": "adoucir",
+        "en": "to soften",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe635": {
+        "oc": "բազմապատկել",
+        "or": "բաղադրյալ",
+        "fr": "multiplier",
+        "en": "to multiply",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe636": {
+        "oc": "համեմատել",
+        "or": "համեմատել",
+        "fr": "comparer",
+        "en": "to compare",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe637": {
+        "oc": "բարեշրջել",
+        "or": "զարգանալ",
+        "fr": "évoluer",
+        "en": "to evolve",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe638": {
+        "oc": "գաղթել",
+        "or": "արտագաղթել",
+        "fr": "émigrer",
+        "en": "to emigrate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe639": {
+        "oc": "գգուել",
+        "or": "շոյել",
+        "fr": "caresser",
+        "en": "to caress",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe640": {
+        "oc": "գգուել ",
+        "or": "կծկվել ",
+        "fr": "câliner",
+        "en": "to cuddle",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe641": {
+        "oc": "գեղագրել",
+        "or": "գեղագրել",
+        "fr": "calligraphier",
+        "en": "to calligraph",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe642": {
+        "oc": "գինովնալ",
+        "or": "գինովնալ",
+        "fr": "s'enivrer",
+        "en": "to get drunk",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe643": {
+        "oc": "գինովցնել",
+        "or": "գինովցնել",
+        "fr": "enivrer",
+        "en": "to intoxicate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe644": {
+        "oc": "գրաքննել",
+        "or": "գրաքննել",
+        "fr": "censurer",
+        "en": "to censor",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe645": {
+        "oc": "թրթռալ",
+        "or": "թրթռալ",
+        "fr": "vibrer",
+        "en": "to vibrate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe646": {
+        "oc": "թրթռալ ",
+        "or": "ճոճվել",
+        "fr": "vibrer ",
+        "en": "to vibrate ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe647": {
+        "oc": "լացնել",
+        "or": "լացնել",
+        "fr": "faire pleurer",
+        "en": "to make cry",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe648": {
+        "oc": "պահպանել",
+        "or": "պահել",
+        "fr": "garder",
+        "en": "to keep",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe649": {
+        "oc": "պահպանել ",
+        "or": "պահպանել ",
+        "fr": "maintenir",
+        "en": "to maintain",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe650": {
+        "oc": "ճմլել",
+        "or": "աղալ",
+        "fr": "broyer",
+        "en": "to grind",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe651": {
+        "oc": "մանրել",
+        "or": "մանրել",
+        "fr": "broyer ",
+        "en": "to grind ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe652": {
+        "oc": "ընդօրինակել",
+        "or": "ընդօրինակել",
+        "fr": "recopier",
+        "en": "to copy ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe653": {
+        "oc": "կշտանալ",
+        "or": "կշտանալ",
+        "fr": "se rassasier",
+        "en": "to sate oneself",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe654": {
+        "oc": "ձեւացնել",
+        "or": "նմանվել",
+        "fr": "ressembler",
+        "en": "to look like",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe655": {
+        "oc": "փռուիլ",
+        "or": "փռվել",
+        "fr": "s'allonger",
+        "en": "to stretch out",
+        "info_oc": "s'allonger au sol / to lay down",
+        "info_or": ""
+    },
+    "verbe656": {
+        "oc": "փռուիլ ",
+        "or": "կախել",
+        "fr": "étendre (linge)",
+        "en": "to hang up (laundry)",
+        "info_oc": "ex : j'étends le linge / eg : I'm hanging up laundry = լաթերը կը փռեմ",
+        "info_or": ""
+    },
+    "verbe657": {
+        "oc": "սրբագրել",
+        "or": "ուղղել",
+        "fr": "corriger",
+        "en": "to correct",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe658": {
+        "oc": "սրբագրել ",
+        "or": "սրբագրել",
+        "fr": "corriger ",
+        "en": "to correct ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe659": {
+        "oc": "կազմակերպել",
+        "or": "կազմակերպել",
+        "fr": "organiser ",
+        "en": " to organize ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe660": {
+        "oc": "կարոտել",
+        "or": "կարոտել",
+        "fr": "manquer",
+        "en": "to miss",
+        "info_oc": "manquer (à quelqu'un/de quelque chose) / to miss someone / something",
+        "info_or": "manquer (à quelqu'un/de quelque chose) / to miss someone / something"
+    },
+    "verbe661": {
+        "oc": "կատարել ",
+        "or": "կատարել ",
+        "fr": "effectuer",
+        "en": "to perform",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe662": {
+        "oc": "այրել ",
+        "or": "խանձվել",
+        "fr": "brûler  ",
+        "en": "to burn  ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe663": {
+        "oc": "հաշուել",
+        "or": "հաշվել",
+        "fr": "calculer",
+        "en": "to calculate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe664": {
+        "oc": "տանիլ   ",
+        "or": "տանել  ",
+        "fr": "conduire ",
+        "en": "to drive ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe665": {
+        "oc": "իմանալ",
+        "or": "իմանալ",
+        "fr": "connaître",
+        "en": "to know  ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe666": {
+        "oc": "ճանչնալ",
+        "or": "ճանաչել",
+        "fr": "reconnaître ",
+        "en": "to recognize",
+        "info_oc": "ճանչնալ:connaître(qqn)/to know(someone)",
+        "info_or": "ճանչնալ:connaître(qqn)/to know(someone)"
+    },
+    "verbe667": {
+        "oc": "շինել  ",
+        "or": "կառուցել",
+        "fr": "bâtir",
+        "en": "to build",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe668": {
+        "oc": "Չափազանցել",
+        "or": "չափազանցել",
+        "fr": "éxagérer",
+        "en": "to exaggerate",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe669": {
+        "oc": "մեծարել ",
+        "or": "մեծարել",
+        "fr": "estimer (quelqu'un)",
+        "en": "to esteem",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe670": {
+        "oc": "երեւակայել",
+        "or": "պատկերացնել",
+        "fr": "imaginer",
+        "en": "to imagine",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe671": {
+        "oc": "բարձրանալ  ",
+        "or": "բարձրանալ  ",
+        "fr": "grimper",
+        "en": "to climb",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe672": {
+        "oc": "վերադարձնել ",
+        "or": "վերադարձնել ",
+        "fr": "rembourser",
+        "en": "to refund",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe673": {
+        "oc": "ուշանալ",
+        "or": "ուշանալ",
+        "fr": "tarder",
+        "en": "to tarry",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe674": {
+        "oc": "Վկայել ",
+        "or": "վկայել ",
+        "fr": "témoigner ",
+        "en": "to testify",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe675": {
+        "oc": "վերջացնել  ",
+        "or": "ավարտել",
+        "fr": "terminer ",
+        "en": "to finish ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe676": {
+        "oc": "որդեգրել",
+        "or": "որդեգրել",
+        "fr": "adopter",
+        "en": "to adopt",
+        "info_oc": "adopter (un enfant) / to adopt (a child)",
+        "info_or": "adopter (un enfant) / to adopt (a child)"
+    },
+    "verbe677": {
+        "oc": "անցնել ",
+        "or": "անցկացնել",
+        "fr": "passer du temps",
+        "en": "spend (time)",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe678": {
+        "oc": "բանալ",
+        "or": "բացել",
+        "fr": "ouvrir",
+        "en": "to open",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe679": {
+        "oc": "բացուիլ",
+        "or": "բացվել",
+        "fr": "s'ouvrir",
+        "en": "to open  ",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe680": {
+        "oc": "կենդրոնանալ",
+        "or": "կենտրոնանալ",
+        "fr": "se concentrer",
+        "en": "to focus oneself",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "verbe681": {
+        "oc": "կարճանալ",
+        "or": "կարճանալ",
+        "fr": "rétrécir",
+        "en": "to shrink",
+        "info_oc": "",
+        "info_or": ""
+    },
+    "nbVerbes": "682"
+}
