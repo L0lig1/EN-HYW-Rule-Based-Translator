@@ -5,6 +5,7 @@ _personalSuffix  = "եմ|ես|է|ենք|եք|են"
 _npersonalSuffix = "եմ|ես|ի|ենք|եք|են"
 _preteriteSuffix = "ցի|ցիր|ց|ցինք|ցիք|ցին"
 _imprefectSuffix = "էի|էիր|էր|էինք|էիք|էին"
+_exceptions = ["գալ", "տալ", "ըլլալ", "գիտենալ"]
 _el = "ել"
 _il = "իլ"
 _al = "ալ"
@@ -27,19 +28,27 @@ easternpatterns = {
     "condit": fr'\bկ\w+({_imprefectSuffix})\s\b',
 }
 
-def FindEasternVerbs(eastern: str):
-    eastern = eastern.lower()
-    westernsentence = eastern
-    for tense, pattern in easternpatterns.items():
-        print(f"Pattern {tense}: {pattern}")
-        foundverbs = re.findall(pattern, eastern)
-        if len(foundverbs) == 0: 
-            continue
+def EastToWest(eastern_sentence: str):
+    easternverbs = FindEasternVerbs(eastern_sentence)
+    westernsentence = eastern_sentence
+    for tense, foundverbs in easternverbs.items():
         print(f"Found   {tense}: {foundverbs}")
         westernverbs = ConvertVerbsToWestern(foundverbs, tense)
         for easternverb, westernverb in zip(foundverbs, westernverbs):
             westernsentence = westernsentence.replace(easternverb, westernverb)
     return westernsentence
+
+def FindEasternVerbs(eastern_sentence: str):
+    eastern_sentence = eastern_sentence.lower()
+    westernsentence = eastern_sentence
+    all = {}
+    for tense, pattern in easternpatterns.items():
+        #print(f"Pattern {tense}: {pattern}")
+        foundverbs = re.findall(pattern, eastern_sentence)
+        if len(foundverbs) == 0: 
+            continue
+        all[tense] = foundverbs
+    return all
 
 
 def ConvertVerbsToWestern(eastern_verbs: list[str], tense: str):
@@ -59,7 +68,7 @@ def ConvertVerbsToWestern(eastern_verbs: list[str], tense: str):
     return western_verbs
 
 
-print(FindEasternVerbs("""Պատասխան. մենք խստորեն դատապարտում ենք Ադրբեջանի նախագահի նկրտումները Հայաստանի տարածքային ամբողջականության դեմ և ուժի կիրառման սպառնալիքները։"""))
+#print(FindEasternVerbs("""Պատասխան. մենք խստորեն դատապարտում ենք Ադրբեջանի նախագահի նկրտումները Հայաստանի տարածքային ամբողջականության դեմ և ուժի կիրառման սպառնալիքները։"""))
 
 # a = FindEasternVerbs("""Էջմիածնի Մայր տաճար, Հայ Առաքելական եկեղեցու Էջմիածնի կաթողիկոսության գլխավոր կրոնական կառույցը: Գտնվում է Հայաստանի Հանրապետության Արմավիրի մարզի Վաղարշապատ քաղաքում։
 

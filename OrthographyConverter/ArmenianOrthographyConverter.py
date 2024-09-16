@@ -466,10 +466,16 @@ class ArmenianOrthographyConverter:
         pattern = r'\b' + re.escape("սրա") + r'\b'
 
         # Perform the replacement
-        text = re.sub(r'\b' + re.escape(" սրա ") + r'\b', r'\b' + re.escape(" ասոր ") + r'\b', text)
-        text = re.sub(r'\b' + re.escape(" նրա ") + r'\b', r'\b' + re.escape(" անոր ") + r'\b', text)
-        text = re.sub(r'\b' + re.escape(" նրանց ") + r'\b', r'\b' + re.escape(" անոնց ") + r'\b', text)
-        text = re.sub(r'\b' + re.escape(" նա ") + r'\b', r'\b' + re.escape(" ան ") + r'\b', text)
+        text = text.replace(" սրա ", " իր ")
+        text = text.replace(" սրանց ", " իրենց ")
+        text = text.replace(" նրա ", " անոր ")
+        text = text.replace(" նրան ", " անոր ")
+        text = text.replace(" նրանց ", " անոնց ")
+        text = text.replace(" դա ", " այդ ")
+        text = text.replace(" նա ", " ան ")
+        text = text.replace(" ինձ ", " ինծի ")
+        text = text.replace(" լսիր ", " լսէ ")
+        text = text.replace("ների ", "ներու ")
         return text
     
 
