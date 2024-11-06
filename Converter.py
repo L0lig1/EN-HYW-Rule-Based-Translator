@@ -109,8 +109,8 @@ def CalculateEvals(sources, references):
             "meteo": meteo,
         })
         # if any(substring in en_hye_translation for substring in [" սրա ", " սրանց ", " նրա ", " նրանց ", " նա "]):
-        # if source == sources[1000]:
-        #     break
+        if source == sources[793]:
+            break
 
         
     # for source in zip(sources):
@@ -122,8 +122,8 @@ def CalculateEvals(sources, references):
     
 
 
-from gradio_client import Client
 def CalculateEvalsNllb(sources, references):
+    from gradio_client import Client
     import nltk
     nltk.download('wordnet')
     bleus, chrfs, rouges, meteos, all = []
@@ -164,16 +164,16 @@ def CalculateEvalsNllb(sources, references):
 def GetAllEvals(PathListEn, PathListHyw):
     en = ReadFiles(PathListEn)  
     hyw = ReadFiles(PathListHyw)
-    en, hyw = shuffle_parallel_corpus(en, hyw)
-    return CalculateEvalsNllb(en, hyw)
+    #en, hyw = shuffle_parallel_corpus(en, hyw)
+    return CalculateEvals(en, hyw)
 
 # start = time.time()
 # print(Translate("I trust it will not embarrass you; but I shall expect you to adopt this course, the only one that I can suggest to avoid complications with Messrs. Alfred Smith & Co. I am"))
 # end = time.time()
 # print(end - start)
-dir = "./EN-HYW/EN-HYW-Rule-Based-Translator/hyw-en-parallel-corpus/"
-PathListEn = [f"{dir}american_citizen/american_citizen.en"]
-PathListHyw = [f"{dir}american_citizen/american_citizen.hyw"]
+dir = "./EN-HYW/EN-HYW-Rule-Based-Translator/Tests/Data/"
+PathListEn = [f"{dir}test.en"]
+PathListHyw = [f"{dir}test.hyw"]
 
 bleus, chrfs, rouge, meteo = GetAllEvals(PathListEn, PathListHyw)
 # print(count_duplicates(en))

@@ -11,6 +11,8 @@ class EvaluationMetrics:
 
     tok = M2M100Tokenizer.from_pretrained("facebook/m2m100_418M")
     def compute_meteor(hypothesis, reference):
+        if hypothesis == "" or reference == "":
+            return 0
         tokref = EvaluationMetrics.tok.tokenize(reference) 
         tokhyp = EvaluationMetrics.tok.tokenize(hypothesis) 
         meteor = meteor_score([tokref], tokhyp)
@@ -19,9 +21,11 @@ class EvaluationMetrics:
     def compute_rouge(hypothesis, reference):
         # Compute ROUGE score
         rouge = Rouge()
+        if hypothesis == "" or reference == "":
+            return [{"rouge-l": {"f": 0}}]
         scores = rouge.get_scores(hypothesis, reference)
         return scores
-
+    
     def compute_bleu(hypothesis, references):
         return corpus_bleu([hypothesis], [[references]]).score
     
